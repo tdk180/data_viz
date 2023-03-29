@@ -1,0 +1,12 @@
+,Unnamed: 0,name,position,age,market_value,country_from,league_from,club_from,country_to,league_to,club_to,fee,x,y,colors
+1108,247,Gavin Bazunu,Goalkeeper,20,5000000,England,Premier League 2,Manchester City U21,England,Premier League,Southampton FC,14000000,10,40,yellow
+1184,66,Malo Gusto,Right-Back,19,15000000,France,Ligue 1,Olympique Lyon,England,Premier League,Chelsea FC,30000000,40,70,blue
+1221,13,Marc Cucurella,Left-Back,24,28000000,England,Premier League,Brighton & Hove Albion,England,Premier League,Chelsea FC,65000000,40,10,blue
+1226,3,Wesley Fofana,Centre-Back,21,40000000,England,Premier League,Leicester City,England,Premier League,Chelsea FC,80000000,30,30,blue
+1222,8,Matthijs de Ligt,Centre-Back,22,70000000,Italy,Serie A,Juventus FC,Germany,Bundesliga,Bayern Munich,67000000,30,50,blue
+1227,4,Aurélien Tchouameni,Defensive Midfield,22,60000000,Monaco,Ligue 1,AS Monaco,Spain,LaLiga,Real Madrid,80000000,55,40,red
+1230,1,Enzo Fernández,Central Midfield,22,55000000,Portugal,Liga Portugal,SL Benfica,England,Premier League,Chelsea FC,121000000,65,55,red
+1211,30,Matheus Nunes,Central Midfield,23,35000000,Portugal,Liga Portugal,Sporting CP,England,Premier League,Wolverhampton Wanderers,45000000,65,25,red
+1224,6,Mykhaylo Mudryk,Left Winger,22,40000000,Ukraine,Premier Liga,Shakhtar Donetsk,England,Premier League,Chelsea FC,70000000,90,10,purple
+1229,2,Antony,Right Winger,22,35000000,Netherlands,Eredivisie,Ajax Amsterdam,England,Premier League,Manchester United,95000000,90,70,purple
+1228,20,Darwin Núñez,Centre-Forward,23,55000000,Portugal,Liga Portugal,SL Benfica,England,Premier League,Liverpool FC,80000000,98,40,purple
