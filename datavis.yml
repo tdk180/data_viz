@@ -1,0 +1,22 @@
+name: datavis
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - jupyter
+  - jupyterlab>=3
+  - ipywidgets>=7.6
+  - matplotlib
+  - networkx
+  - numpy
+  - pandas
+  - pip
+  - plotly
+  - python=3.8
+  - scikit-learn
+  - scipy
+  - seaborn
+  - dash
+  - jupyter-dash
+  - pygraphviz
