@@ -5,3 +5,4 @@ gunicorn==19.7.1
 networkx
 seaborn
 matplotlib
+dash_cytoscape
