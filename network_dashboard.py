@@ -3,13 +3,11 @@ from plotly.subplots import make_subplots
 import pandas as pd
 from dash import Dash, dcc, html
 import dash_cytoscape as cyto
-from jupyter_dash import JupyterDash
-# Load extra layouts
-cyto.load_extra_layouts()
-import json
-from dash import dcc, html, ctx
 from dash.dependencies import Input, Output
 import networkx as nx
+
+# Load extra layouts
+cyto.load_extra_layouts()
 
 df=pd.read_csv('transfer_window.csv', sep=',')
 df=df.rename(columns={"club_from": "from", "club_to": "to"})
