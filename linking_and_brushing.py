@@ -20,10 +20,10 @@ others=league_year[league_year['league_to']=="Others"]
 app.layout = html.Div(className='row',style={'display': 'flex',  'fontSize': 14}, children=[
         html.Div([
         dcc.Graph(id = 'bar_plot')
-        ],  style={'border': 'solid red', 'width':'100%'},
+        ],
         className='two columns'),
         html.Div([
-        dcc.Graph(id = 'pie_chart')],style={'border': 'solid red', 'width':'100%'},className='two columns')])
+        dcc.Graph(id = 'pie_chart')],className='two columns')])
     
     
 @app.callback(Output(component_id='bar_plot', component_property= 'figure'),
