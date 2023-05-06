@@ -58,6 +58,9 @@ def update_side_graph(hov_data, clk_data, slct_data):
         fig_pie.update_traces(hoverinfo = 'label+percent', textfont_size = 20,
                   textinfo = 'label+percent', pull = [0.1, 0, 0.2, 0, 0, 0],
                              marker=dict(colors=colors))
+        
+        fig_pie.update_layout(showlegend=False)
+
 
         return fig_pie
     
@@ -77,6 +80,8 @@ def update_side_graph(hov_data, clk_data, slct_data):
         fig_pie.update_traces(hoverinfo = 'label+percent', textfont_size = 20,
                   textinfo = 'label+percent', pull = [0.1, 0, 0.2, 0, 0, 0],
                              marker=dict(colors=colors))
+        fig_pie.update_layout(showlegend=False)
+
 
 
         return fig_pie
