@@ -1,0 +1,626 @@
+,name,position,age,market_value,country_from,league_from,club_from,country_to,league_to,club_to,fee,year
+0,Eden Hazard,Left Winger,28,150000000,England,Premier League,Chelsea FC,Spain,LaLiga,Real Madrid,115000000,2019
+1,Antoine Griezmann,Second Striker,28,130000000,Spain,LaLiga,Atlético de Madrid,Spain,LaLiga,FC Barcelona,120000000,2019
+2,João Félix,Second Striker,19,70000000,Portugal,Liga NOS,SL Benfica,Spain,LaLiga,Atlético de Madrid,127000000,2019
+3,Christian Eriksen,Central Midfield,27,90000000,England,Premier League,Tottenham Hotspur,Italy,Serie A,Inter Milan,27000000,2019
+4,Philippe Coutinho,Left Winger,27,90000000,Spain,LaLiga,FC Barcelona,Germany,Bundesliga,Bayern Munich,8000000,2019
+5,Harry Maguire,Centre-Back,26,50000000,England,Premier League,Leicester City,England,Premier League,Manchester United,87000000,2019
+6,Frenkie de Jong,Central Midfield,22,85000000,Netherlands,Eredivisie,Ajax Amsterdam,Spain,LaLiga,FC Barcelona,86000000,2019
+7,Matthijs de Ligt,Centre-Back,19,75000000,Netherlands,Eredivisie,Ajax Amsterdam,Italy,Serie A,Juventus FC,85000000,2019
+8,Lucas Hernández,Centre-Back,23,70000000,Spain,LaLiga,Atlético de Madrid,Germany,Bundesliga,Bayern Munich,80000000,2019
+9,Nicolas Pépé,Right Winger,24,65000000,France,Ligue 1,LOSC Lille,England,Premier League,Arsenal FC,80000000,2019
+10,Rodri,Defensive Midfield,23,80000000,Spain,LaLiga,Atlético de Madrid,England,Premier League,Manchester City,70000000,2019
+11,Mauro Icardi,Centre-Forward,26,80000000,Italy,Serie A,Inter Milan,France,Ligue 1,Paris Saint-Germain,loan transfer,2019
+12,Romelu Lukaku,Centre-Forward,26,75000000,England,Premier League,Manchester United,Italy,Serie A,Inter Milan,74000000,2019
+13,João Cancelo,Right-Back,25,55000000,Italy,Serie A,Juventus FC,England,Premier League,Manchester City,65000000,2019
+14,Tanguy Ndombélé,Central Midfield,22,65000000,France,Ligue 1,Olympique Lyon,England,Premier League,Tottenham Hotspur,62000000,2019
+15,Luka Jović,Centre-Forward,21,60000000,Germany,Bundesliga,Eintracht Frankfurt,Spain,LaLiga,Real Madrid,63000000,2019
+16,Bruno Fernandes,Attacking Midfield,25,60000000,Portugal,Liga NOS,Sporting CP,England,Premier League,Manchester United,63000000,2019
+17,Luka Jović,Centre-Forward,21,60000000,Portugal,Liga NOS,SL Benfica,Germany,Bundesliga,Eintracht Frankfurt,22000000,2019
+18,Nabil Fekir,Attacking Midfield,26,60000000,France,Ligue 1,Olympique Lyon,Spain,LaLiga,Real Betis Balompié,19000000,2019
+19,Aaron Wan-Bissaka,Right-Back,21,35000000,England,Premier League,Crystal Palace,England,Premier League,Manchester United,55000000,2019
+20,Éder Militão,Centre-Back,21,50000000,Portugal,Liga NOS,FC Porto,Spain,LaLiga,Real Madrid,50000000,2019
+21,Sébastien Haller,Centre-Forward,25,40000000,Germany,Bundesliga,Eintracht Frankfurt,England,Premier League,West Ham United,50000000,2019
+22,Julian Brandt,Attacking Midfield,23,50000000,Germany,Bundesliga,Bayer 04 Leverkusen,Germany,Bundesliga,Borussia Dortmund,25000000,2019
+23,Giovani Lo Celso,Central Midfield,23,50000000,France,Ligue 1,Paris Saint-Germain,Spain,LaLiga,Real Betis Balompié,22000000,2019
+24,Giovani Lo Celso,Central Midfield,23,50000000,Spain,LaLiga,Real Betis Balompié,England,Premier League,Tottenham Hotspur,16000000,2019
+25,Ferland Mendy,Left-Back,24,30000000,France,Ligue 1,Olympique Lyon,Spain,LaLiga,Real Madrid,48000000,2019
+26,Rodrygo,Right Winger,18,40000000,Brazil,Série A,Santos FC,Spain,LaLiga,Real Madrid,45000000,2019
+27,Mateo Kovacic,Central Midfield,25,35000000,Spain,LaLiga,Real Madrid,England,Premier League,Chelsea FC,45000000,2019
+28,Youri Tielemans,Central Midfield,22,38000000,Monaco,Ligue 1,AS Monaco,England,Premier League,Leicester City,45000000,2019
+29,Hirving Lozano,Right Winger,24,40000000,Netherlands,Eredivisie,PSV Eindhoven,Italy,Serie A,SSC Napoli,45000000,2019
+30,Konstantinos Manolas,Centre-Back,28,45000000,Italy,Serie A,AS Roma,Italy,Serie A,SSC Napoli,36000000,2019
+31,Erling Haaland,Centre-Forward,19,45000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,Borussia Dortmund,20000000,2019
+32,Duván Zapata,Centre-Forward,28,45000000,Italy,Serie A,UC Sampdoria,Italy,Serie A,Atalanta BC,12000000,2019
+33,Joelinton,Attacking Midfield,22,35000000,Germany,Bundesliga,TSG 1899 Hoffenheim,England,Premier League,Newcastle United,44000000,2019
+34,Paco Alcácer,Centre-Forward,26,42000000,Germany,Bundesliga,Borussia Dortmund,Spain,LaLiga,Villarreal CF,23000000,2019
+35,Malcom,Right Winger,22,40000000,Spain,LaLiga,FC Barcelona,Russia,Premier Liga,Zenit St. Petersburg,40000000,2019
+36,Wissam Ben Yedder,Centre-Forward,29,40000000,Spain,LaLiga,Sevilla FC,Monaco,Ligue 1,AS Monaco,40000000,2019
+37,Moise Kean,Centre-Forward,19,40000000,Italy,Serie A,Juventus FC,England,Premier League,Everton FC,27000000,2019
+38,Pablo Sarabia,Right Winger,27,40000000,Spain,LaLiga,Sevilla FC,France,Ligue 1,Paris Saint-Germain,18000000,2019
+39,Maxi Gómez,Centre-Forward,22,40000000,Spain,LaLiga,Celta de Vigo,Spain,LaLiga,Valencia CF,14000000,2019
+40,Aaron Ramsey,Central Midfield,28,40000000,England,Premier League,Arsenal FC,Italy,Serie A,Juventus FC,free transfer,2019
+41,Ante Rebic,Left Winger,25,40000000,Germany,Bundesliga,Eintracht Frankfurt,Italy,Serie A,AC Milan,loan transfer,2019
+42,Raúl Jiménez,Centre-Forward,28,35000000,Portugal,Liga NOS,SL Benfica,England,Premier League,Wolverhampton Wanderers,38000000,2019
+43,Thorgan Hazard,Left Winger,26,38000000,Germany,Bundesliga,Borussia Mönchengladbach,Germany,Bundesliga,Borussia Dortmund,25000000,2019
+44,Danilo,Right-Back,28,20000000,England,Premier League,Manchester City,Italy,Serie A,Juventus FC,37000000,2019
+45,Paco Alcácer,Centre-Forward,25,37000000,Spain,LaLiga,FC Barcelona,Germany,Bundesliga,Borussia Dortmund,21000000,2019
+46,Nicolò Barella,Central Midfield,22,36000000,Italy,Serie A,Cagliari Calcio,Italy,Serie A,Inter Milan,12000000,2019
+47,Benjamin Pavard,Right-Back,23,30000000,Germany,2. Bundesliga,VfB Stuttgart,Germany,Bundesliga,Bayern Munich,35000000,2019
+48,Jasper Cillessen,Goalkeeper,30,18000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Valencia CF,35000000,2019
+49,Jules Koundé,Centre-Back,20,15000000,France,Ligue 1,FC Girondins Bordeaux,Spain,LaLiga,Sevilla FC,35000000,2019
+50,Dejan Kulusevski,Right Winger,19,25000000,Italy,Serie A,Atalanta BC,Italy,Serie A,Juventus FC,35000000,2019
+51,Abdou Diallo,Centre-Back,23,35000000,Germany,Bundesliga,Borussia Dortmund,France,Ligue 1,Paris Saint-Germain,32000000,2019
+52,Mats Hummels,Centre-Back,30,35000000,Germany,Bundesliga,Bayern Munich,Germany,Bundesliga,Borussia Dortmund,30000000,2019
+53,Steven Bergwijn,Left Winger,22,35000000,Netherlands,Eredivisie,PSV Eindhoven,England,Premier League,Tottenham Hotspur,30000000,2019
+54,Dani Olmo,Attacking Midfield,21,35000000,Croatia,SuperSport HNL,GNK Dinamo Zagreb,Germany,Bundesliga,RB Leipzig,29000000,2019
+55,Ryan Sessegnon,Left Midfield,19,35000000,England,Championship,Fulham FC,England,Premier League,Tottenham Hotspur,27000000,2019
+56,Marko Arnautovic,Centre-Forward,30,35000000,England,Premier League,West Ham United,China,Super League,Shanghai SIPG,25000000,2019
+57,Kieran Trippier,Right-Back,28,35000000,England,Premier League,Tottenham Hotspur,Spain,LaLiga,Atlético de Madrid,22000000,2019
+58,Tiemoué Bakayoko,Defensive Midfield,25,35000000,England,Premier League,Chelsea FC,Monaco,Ligue 1,AS Monaco,3000000,2019
+59,Adrien Rabiot,Central Midfield,24,35000000,France,Ligue 1,Paris Saint-Germain,Italy,Serie A,Juventus FC,free transfer,2019
+60,Alexis Sánchez,Centre-Forward,30,35000000,England,Premier League,Manchester United,Italy,Serie A,Inter Milan,loan transfer,2019
+61,Ayoze Pérez,Second Striker,25,20000000,England,Premier League,Newcastle United,England,Premier League,Leicester City,33000000,2019
+62,Franck Kessié,Central Midfield,22,33000000,Italy,Serie A,Atalanta BC,Italy,Serie A,AC Milan,32000000,2019
+63,Kerem Demirbay,Central Midfield,25,32000000,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,Bayer 04 Leverkusen,32000000,2019
+64,Krzysztof Piatek,Centre-Forward,24,32000000,Italy,Serie A,AC Milan,Germany,Bundesliga,Hertha BSC,24000000,2019
+65,Cristian Romero,Centre-Back,21,15000000,Italy,Serie A,Genoa CFC,Italy,Serie A,Juventus FC,31000000,2019
+66,Alex Iwobi,Attacking Midfield,23,25000000,England,Premier League,Arsenal FC,England,Premier League,Everton FC,30000000,2019
+67,Marcos Llorente,Central Midfield,24,20000000,Spain,LaLiga,Real Madrid,Spain,LaLiga,Atlético de Madrid,30000000,2019
+68,Gelson Martins,Right Winger,24,28000000,Spain,LaLiga,Atlético de Madrid,Monaco,Ligue 1,AS Monaco,30000000,2019
+69,William Saliba,Centre-Back,18,12000000,France,Ligue 1,AS Saint-Étienne,England,Premier League,Arsenal FC,30000000,2019
+70,Idrissa Gueye,Central Midfield,29,25000000,England,Premier League,Everton FC,France,Ligue 1,Paris Saint-Germain,30000000,2019
+71,Ismaïla Sarr,Right Winger,21,30000000,France,Ligue 1,Stade Rennais FC,England,Premier League,Watford FC,30000000,2019
+72,Reinier,Attacking Midfield,18,25000000,Brazil,Série A,CR Flamengo,Spain,LaLiga,Real Madrid,30000000,2019
+73,Matteo Politano,Right Winger,25,30000000,Italy,Serie A,US Sassuolo,Italy,Serie A,Inter Milan,21000000,2019
+74,Stephan El Shaarawy,Left Winger,26,30000000,Italy,Serie A,AS Roma,China,Super League,Shanghai Greenland Shenhua,16000000,2019
+75,Ivan Perisic,Left Midfield,30,30000000,Italy,Serie A,Inter Milan,Germany,Bundesliga,Bayern Munich,5000000,2019
+76,Emre Can,Defensive Midfield,26,30000000,Italy,Serie A,Juventus FC,Germany,Bundesliga,Borussia Dortmund,1000000,2019
+77,Suso,Right Winger,26,30000000,Italy,Serie A,AC Milan,Spain,LaLiga,Sevilla FC,980k,2019
+78,Santi Mina,Centre-Forward,23,30000000,Spain,LaLiga,Valencia CF,Spain,LaLiga,Celta de Vigo,free transfer,2019
+79,Dani Ceballos,Central Midfield,22,30000000,Spain,LaLiga,Real Madrid,England,Premier League,Arsenal FC,loan transfer,2019
+80,Leonardo Spinazzola,Left-Back,26,15000000,Italy,Serie A,Juventus FC,Italy,Serie A,AS Roma,29000000,2019
+81,Rafael Leão,Left Winger,20,15000000,France,Ligue 1,LOSC Lille,Italy,Serie A,AC Milan,29000000,2019
+82,Pablo Fornals,Attacking Midfield,23,25000000,Spain,LaLiga,Villarreal CF,England,Premier League,West Ham United,28000000,2019
+83,Borja Iglesias,Centre-Forward,26,28000000,Spain,LaLiga,RCD Espanyol Barcelona,Spain,LaLiga,Real Betis Balompié,28000000,2019
+84,André Gomes,Central Midfield,25,28000000,Spain,LaLiga,FC Barcelona,England,Premier League,Everton FC,25000000,2019
+85,Jean-Philippe Gbamin,Defensive Midfield,23,28000000,Germany,Bundesliga,1.FSV Mainz 05,England,Premier League,Everton FC,25000000,2019
+86,Patrick Cutrone,Centre-Forward,21,28000000,Italy,Serie A,AC Milan,England,Premier League,Wolverhampton Wanderers,18000000,2019
+87,Matteo Politano,Right Winger,26,28000000,Italy,Serie A,Inter Milan,Italy,Serie A,SSC Napoli,2000000,2019
+88,Radja Nainggolan,Central Midfield,31,28000000,Italy,Serie A,Inter Milan,Italy,Serie A,Cagliari Calcio,loan transfer,2019
+89,Yannick Carrasco,Left Winger,26,28000000,China,Super League,Dalian Professional,Spain,LaLiga,Atlético de Madrid,loan transfer,2019
+90,Kieran Tierney,Left-Back,22,12000000,Scotland,Premiership,Celtic FC,England,Premier League,Arsenal FC,27000000,2019
+91,Alex Meret,Goalkeeper,22,25000000,Italy,Serie A,Udinese Calcio,Italy,Serie A,SSC Napoli,26000000,2019
+92,Neto,Goalkeeper,29,18000000,Spain,LaLiga,Valencia CF,Spain,LaLiga,FC Barcelona,26000000,2019
+93,Nico Schulz,Left-Back,26,25000000,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,Borussia Dortmund,25000000,2019
+94,Danny Ings,Centre-Forward,26,15000000,England,Premier League,Liverpool FC,England,Premier League,Southampton FC,25000000,2019
+95,Wesley Moraes,Centre-Forward,22,20000000,Belgium,Jupiler Pro League,Club Brugge KV,England,Premier League,Aston Villa,25000000,2019
+96,Mario Hermoso,Centre-Back,24,25000000,Spain,LaLiga,RCD Espanyol Barcelona,Spain,LaLiga,Atlético de Madrid,25000000,2019
+97,Rony Lopes,Right Winger,23,25000000,Monaco,Ligue 1,AS Monaco,Spain,LaLiga,Sevilla FC,25000000,2019
+98,Jeff Reine-Adélaïde,Attacking Midfield,21,11000000,France,Ligue 1,Angers SCO,France,Ligue 1,Olympique Lyon,25000000,2019
+99,Lucas Tousart,Defensive Midfield,22,20000000,France,Ligue 1,Olympique Lyon,Germany,Bundesliga,Hertha BSC,25000000,2019
+100,Joachim Andersen,Centre-Back,23,25000000,Italy,Serie A,UC Sampdoria,France,Ligue 1,Olympique Lyon,24000000,2019
+101,Bryan Cristante,Defensive Midfield,24,25000000,Italy,Serie A,Atalanta BC,Italy,Serie A,AS Roma,22000000,2019
+102,Thiago Mendes,Defensive Midfield,27,25000000,France,Ligue 1,LOSC Lille,France,Ligue 1,Olympique Lyon,22000000,2019
+103,Junior Firpo,Left-Back,22,25000000,Spain,LaLiga,Real Betis Balompié,Spain,LaLiga,FC Barcelona,20000000,2019
+104,Allan Saint-Maximin,Left Winger,22,25000000,France,Ligue 1,OGC Nice,England,Premier League,Newcastle United,18000000,2019
+105,Exequiel Palacios,Central Midfield,21,25000000,Argentina,Copa Maradona,CA River Plate,Germany,Bundesliga,Bayer 04 Leverkusen,17000000,2019
+106,Shoya Nakajima,Attacking Midfield,24,25000000,Qatar,Stars League,Al-Duhail SC,Portugal,Liga NOS,FC Porto,12000000,2019
+107,Henrikh Mkhitaryan,Attacking Midfield,30,25000000,England,Premier League,Arsenal FC,Italy,Serie A,AS Roma,3000000,2019
+108,Jean Michaël Seri,Central Midfield,27,25000000,England,Championship,Fulham FC,Turkey,Süper Lig,Galatasaray,1000000,2019
+109,Ander Herrera,Central Midfield,29,25000000,England,Premier League,Manchester United,France,Ligue 1,Paris Saint-Germain,free transfer,2019
+110,Frank Anguissa,Central Midfield,23,25000000,England,Championship,Fulham FC,Spain,LaLiga,Villarreal CF,loan transfer,2019
+111,Dejan Kulusevski,Right Winger,19,25000000,Italy,Serie A,Juventus FC,Italy,Serie A,Parma Calcio 1913,loan transfer,2019
+112,Dennis Praet,Central Midfield,25,24000000,Italy,Serie A,UC Sampdoria,England,Premier League,Leicester City,19000000,2019
+113,Pau López,Goalkeeper,24,20000000,Spain,LaLiga,Real Betis Balompié,Italy,Serie A,AS Roma,23000000,2019
+114,Nikola Vlasic,Attacking Midfield,21,20000000,England,Premier League,Everton FC,Russia,Premier Liga,CSKA Moscow,23000000,2019
+115,Sander Berge,Central Midfield,21,22000000,Belgium,Jupiler Pro League,KRC Genk,England,Premier League,Sheffield United,23000000,2019
+116,Julian Weigl,Defensive Midfield,24,23000000,Germany,Bundesliga,Borussia Dortmund,Portugal,Liga NOS,SL Benfica,20000000,2019
+117,Gabriel Barbosa,Centre-Forward,23,23000000,Italy,Serie A,Inter Milan,Brazil,Série A,CR Flamengo,17000000,2019
+118,Steven Nzonzi,Defensive Midfield,30,23000000,Italy,Serie A,AS Roma,Turkey,Süper Lig,Galatasaray,loan transfer,2019
+119,Simone Verdi,Attacking Midfield,27,23000000,Italy,Serie A,SSC Napoli,Italy,Serie A,Torino FC,loan transfer,2019
+120,Raúl de Tomás,Centre-Forward,25,15000000,Portugal,Liga NOS,SL Benfica,Spain,LaLiga,RCD Espanyol Barcelona,22000000,2019
+121,Victor Osimhen,Centre-Forward,20,13000000,Belgium,Jupiler Pro League,RSC Charleroi,France,Ligue 1,LOSC Lille,22000000,2019
+122,Valentino Lazaro,Right-Back,23,17000000,Germany,Bundesliga,Hertha BSC,Italy,Serie A,Inter Milan,22000000,2019
+123,Tyrone Mings,Centre-Back,26,5000000,England,Premier League,AFC Bournemouth,England,Premier League,Aston Villa,22000000,2019
+124,Adam Webster,Centre-Back,24,9000000,England,Championship,Bristol City,England,Premier League,Brighton & Hove Albion,22000000,2019
+125,Luca Pellegrini,Left-Back,20,5000000,Italy,Serie A,AS Roma,Italy,Serie A,Juventus FC,22000000,2019
+126,Filip Kostić,Left Midfield,26,22000000,Germany,2. Bundesliga,Hamburger SV,Germany,Bundesliga,Eintracht Frankfurt,6000000,2019
+127,Gianluca Mancini,Centre-Back,23,22000000,Italy,Serie A,Atalanta BC,Italy,Serie A,AS Roma,2000000,2019
+128,Christian Kouamé,Centre-Forward,22,22000000,Italy,Serie A,Genoa CFC,Italy,Serie A,ACF Fiorentina,1000000,2019
+129,Héctor Herrera,Central Midfield,29,22000000,Portugal,Liga NOS,FC Porto,Spain,LaLiga,Atlético de Madrid,free transfer,2019
+130,Alfonso Pedraza,Left-Back,23,22000000,Spain,LaLiga,Villarreal CF,Spain,LaLiga,Real Betis Balompié,loan transfer,2019
+131,André Silva,Centre-Forward,23,22000000,Italy,Serie A,AC Milan,Germany,Bundesliga,Eintracht Frankfurt,loan transfer,2019
+132,Renan Lodi,Left-Back,21,4000000,Brazil,Série A,Club Athletico Paranaense,Spain,LaLiga,Atlético de Madrid,21000000,2019
+133,Jarrod Bowen,Right Winger,23,10000000,England,Championship,Hull City,England,Premier League,West Ham United,21000000,2019
+134,Luis Muriel,Centre-Forward,28,13000000,Spain,LaLiga,Sevilla FC,Italy,Serie A,Atalanta BC,21000000,2019
+135,Amadou Diawara,Defensive Midfield,21,15000000,Italy,Serie A,SSC Napoli,Italy,Serie A,AS Roma,21000000,2019
+136,Raphinha,Right Winger,22,8000000,Portugal,Liga NOS,Sporting CP,France,Ligue 1,Stade Rennais FC,21000000,2019
+137,Stanislav Lobotka,Defensive Midfield,25,20000000,Spain,LaLiga,Celta de Vigo,Italy,Serie A,SSC Napoli,21000000,2019
+138,Yacine Brahimi,Left Winger,29,21000000,Portugal,Liga NOS,FC Porto,Qatar,Stars League,Al-Rayyan SC,free transfer,2019
+139,Kasper Dolberg,Centre-Forward,21,18000000,Netherlands,Eredivisie,Ajax Amsterdam,France,Ligue 1,OGC Nice,20000000,2019
+140,Edmond Tapsoba,Centre-Back,20,4000000,Portugal,Liga NOS,Vitória Guimarães SC,Germany,Bundesliga,Bayer 04 Leverkusen,20000000,2019
+141,Emil Audero,Goalkeeper,22,15000000,Italy,Serie A,Juventus FC,Italy,Serie A,UC Sampdoria,20000000,2019
+142,Felipe,Centre-Back,30,20000000,Portugal,Liga NOS,FC Porto,Spain,LaLiga,Atlético de Madrid,20000000,2019
+143,Raúl de Tomás,Centre-Forward,24,20000000,Spain,LaLiga,Real Madrid,Portugal,Liga NOS,SL Benfica,20000000,2019
+144,Dodi Lukébakio,Right Winger,21,18000000,England,Premier League,Watford FC,Germany,Bundesliga,Hertha BSC,20000000,2019
+145,Maximilian Philipp,Second Striker,25,13000000,Germany,Bundesliga,Borussia Dortmund,Russia,Premier Liga,Dinamo Moscow,20000000,2019
+146,Renato Sanches,Central Midfield,22,18000000,Germany,Bundesliga,Bayern Munich,France,Ligue 1,LOSC Lille,20000000,2019
+147,Youssef En-Nesyri,Centre-Forward,22,12000000,Spain,LaLiga,CD Leganés,Spain,LaLiga,Sevilla FC,20000000,2019
+148,Bruno Guimarães,Defensive Midfield,22,20000000,Brazil,Série A,Club Athletico Paranaense,France,Ligue 1,Olympique Lyon,20000000,2019
+149,Ademola Lookman,Second Striker,21,20000000,England,Premier League,Everton FC,Germany,Bundesliga,RB Leipzig,18000000,2019
+150,Diadié Samassékou,Defensive Midfield,23,20000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,TSG 1899 Hoffenheim,14000000,2019
+151,Andrea Petagna,Centre-Forward,24,20000000,Italy,Serie A,Atalanta BC,Italy,Serie A,SPAL,12000000,2019
+152,João Pedro,Centre-Forward,18,20000000,Brazil,Série A,Fluminense Football Club,England,Premier League,Watford FC,11000000,2019
+153,David Luiz,Centre-Back,32,20000000,England,Premier League,Chelsea FC,England,Premier League,Arsenal FC,8000000,2019
+154,Aarón Martín,Left-Back,22,20000000,Spain,LaLiga,RCD Espanyol Barcelona,Germany,Bundesliga,1.FSV Mainz 05,6000000,2019
+155,Chris Smalling,Centre-Back,29,20000000,England,Premier League,Manchester United,Italy,Serie A,AS Roma,3000000,2019
+156,Giovanni Simeone,Centre-Forward,24,20000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Cagliari Calcio,3000000,2019
+157,Patrick Cutrone,Centre-Forward,22,20000000,England,Premier League,Wolverhampton Wanderers,Italy,Serie A,ACF Fiorentina,3000000,2019
+158,Marko Grujić,Defensive Midfield,23,20000000,England,Premier League,Liverpool FC,Germany,Bundesliga,Hertha BSC,2000000,2019
+159,Danny Rose,Left-Back,29,20000000,England,Premier League,Tottenham Hotspur,England,Premier League,Newcastle United,2000000,2019
+160,Jordan Veretout,Defensive Midfield,26,20000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,AS Roma,1000000,2019
+161,Mario Balotelli,Centre-Forward,29,20000000,France,Ligue 1,Olympique Marseille,Italy,Serie A,Brescia Calcio,free transfer,2019
+162,Diego Godín,Centre-Back,33,20000000,Spain,LaLiga,Atlético de Madrid,Italy,Serie A,Inter Milan,free transfer,2019
+163,Carles Aleñá,Central Midfield,21,20000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Real Betis Balompié,loan transfer,2019
+164,Álvaro Odriozola,Right-Back,24,20000000,Spain,LaLiga,Real Madrid,Germany,Bundesliga,Bayern Munich,loan transfer,2019
+165,Lucas Tousart,Defensive Midfield,22,20000000,Germany,Bundesliga,Hertha BSC,France,Ligue 1,Olympique Lyon,loan transfer,2019
+166,Alessandro Florenzi,Right-Back,28,20000000,Italy,Serie A,AS Roma,Spain,LaLiga,Valencia CF,loan transfer,2019
+167,Daniel Podence,Left Winger,24,6000000,Greece,Super League 1,Olympiacos Piraeus,England,Premier League,Wolverhampton Wanderers,19000000,2019
+168,Merih Demiral,Centre-Back,21,15000000,Italy,Serie A,US Sassuolo,Italy,Serie A,Juventus FC,19000000,2019
+169,Sofyan Amrabat,Defensive Midfield,23,10000000,Italy,Serie A,Hellas Verona,Italy,Serie A,ACF Fiorentina,19000000,2019
+170,Oliver McBurnie,Centre-Forward,23,8000000,Wales,Championship,Swansea City,England,Premier League,Sheffield United,19000000,2019
+171,Valentino Lazaro,Right-Back,23,19000000,Italy,Serie A,Inter Milan,England,Premier League,Newcastle United,1000000,2019
+172,Yusuf Yazici,Attacking Midfield,22,13000000,Turkey,Süper Lig,Trabzonspor,France,Ligue 1,LOSC Lille,18000000,2019
+173,Salomón Rondón,Centre-Forward,29,15000000,England,Championship,West Bromwich Albion,China,Super League,Dalian Professional,18000000,2019
+174,Guus Til,Attacking Midfield,21,6000000,Netherlands,Eredivisie,AZ Alkmaar,Russia,Premier Liga,Spartak Moscow,18000000,2019
+175,Guillermo Maripán,Centre-Back,25,15000000,Spain,LaLiga,Deportivo Alavés,Monaco,Ligue 1,AS Monaco,18000000,2019
+176,Aurélien Tchouaméni,Defensive Midfield,20,14000000,France,Ligue 1,FC Girondins Bordeaux,Monaco,Ligue 1,AS Monaco,18000000,2019
+177,Matheus Cunha,Centre-Forward,20,13000000,Germany,Bundesliga,RB Leipzig,Germany,Bundesliga,Hertha BSC,18000000,2019
+178,Martin Braithwaite,Centre-Forward,28,10000000,Spain,LaLiga,CD Leganés,Spain,LaLiga,FC Barcelona,18000000,2019
+179,Andrea Petagna,Centre-Forward,24,18000000,Italy,Serie A,SPAL,Italy,Serie A,SSC Napoli,16000000,2019
+180,Nahitan Nández,Central Midfield,23,18000000,Argentina,Superliga,CA Boca Juniors,Italy,Serie A,Cagliari Calcio,16000000,2019
+181,Quincy Promes,Left Winger,27,18000000,Spain,LaLiga,Sevilla FC,Netherlands,Eredivisie,Ajax Amsterdam,15000000,2019
+182,Manuel Lazzari,Right-Back,25,18000000,Italy,Serie A,SPAL,Italy,Serie A,SS Lazio,15000000,2019
+183,Leander Dendoncker,Defensive Midfield,24,18000000,Belgium,Jupiler Pro League,RSC Anderlecht,England,Premier League,Wolverhampton Wanderers,13000000,2019
+184,Grzegorz Krychowiak,Defensive Midfield,29,18000000,France,Ligue 1,Paris Saint-Germain,Russia,Premier Liga,Lokomotiv Moscow,12000000,2019
+185,Pedro,Centre-Forward,22,18000000,Brazil,Série A,Fluminense Football Club,Italy,Serie A,ACF Fiorentina,11000000,2019
+186,Stefano Sensi,Central Midfield,23,18000000,Italy,Serie A,US Sassuolo,Italy,Serie A,Inter Milan,2000000,2019
+187,João Mário,Central Midfield,26,18000000,Italy,Serie A,Inter Milan,Russia,Premier Liga,Lokomotiv Moscow,loan transfer,2019
+188,Andrea Petagna,Centre-Forward,24,18000000,Italy,Serie A,SSC Napoli,Italy,Serie A,SPAL,loan transfer,2019
+189,Pedro Neto,Right Winger,19,2000000,Italy,Serie A,SS Lazio,England,Premier League,Wolverhampton Wanderers,17000000,2019
+190,Daniel James,Right Winger,21,12000000,Wales,Championship,Swansea City,England,Premier League,Manchester United,17000000,2019
+191,Pedri,Central Midfield,16,-,Spain,LaLiga SmartBank,UD Las Palmas,Spain,LaLiga,FC Barcelona,17000000,2019
+192,Karl Toko Ekambi,Left Winger,27,17000000,Spain,LaLiga,Villarreal CF,France,Ligue 1,Olympique Lyon,4000000,2019
+193,Alphonse Areola,Goalkeeper,26,17000000,France,Ligue 1,Paris Saint-Germain,Spain,LaLiga,Real Madrid,2000000,2019
+194,Ismaël Bennacer,Defensive Midfield,21,12000000,Italy,Serie B,Empoli FC ,Italy,Serie A,AC Milan,17000000,2019
+195,Munas Dabbur,Centre-Forward,27,15000000,Austria,Bundesliga,Red Bull Salzburg,Spain,LaLiga,Sevilla FC,17000000,2019
+196,Carlos Vinícius,Centre-Forward,24,7000000,Italy,Serie A,SSC Napoli,Portugal,Liga NOS,SL Benfica,17000000,2019
+197,Benjamin Lecomte,Goalkeeper,28,17000000,France,Ligue 1,Montpellier HSC,Monaco,Ligue 1,AS Monaco,13000000,2019
+198,Óliver Torres,Central Midfield,24,17000000,Portugal,Liga NOS,FC Porto,Spain,LaLiga,Sevilla FC,11000000,2019
+199,Diego Demme,Defensive Midfield,28,17000000,Germany,Bundesliga,RB Leipzig,Italy,Serie A,SSC Napoli,10000000,2019
+200,Nadiem Amiri,Central Midfield,22,17000000,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,Bayer 04 Leverkusen,9000000,2019
+201,Bas Dost,Centre-Forward,30,17000000,Portugal,Liga NOS,Sporting CP,Germany,Bundesliga,Eintracht Frankfurt,7000000,2019
+202,Alfred Duncan,Central Midfield,26,17000000,Italy,Serie A,US Sassuolo,Italy,Serie A,ACF Fiorentina,2000000,2019
+203,Alban Lafont,Goalkeeper,20,17000000,Italy,Serie A,ACF Fiorentina,France,Ligue 1,FC Nantes,800k,2019
+204,Douglas Luiz,Central Midfield,21,2000000,England,Premier League,Manchester City,England,Premier League,Aston Villa,16000000,2019
+205,Ché Adams,Centre-Forward,22,7000000,England,Championship,Birmingham City,England,Premier League,Southampton FC,16000000,2019
+206,Stefano Sturaro,Central Midfield,26,10000000,Italy,Serie A,Juventus FC,Italy,Serie A,Genoa CFC,16000000,2019
+207,Philip Billing,Central Midfield,23,7000000,England,Championship,Huddersfield Town,England,Premier League,AFC Bournemouth,16000000,2019
+208,Arnaut Danjuma,Left Winger,22,12000000,Belgium,Jupiler Pro League,Club Brugge KV,England,Premier League,AFC Bournemouth,16000000,2019
+209,Eljif Elmas,Central Midfield,19,10000000,Turkey,Süper Lig,Fenerbahce,Italy,Serie A,SSC Napoli,16000000,2019
+210,Leandro Trossard,Left Winger,24,16000000,Belgium,Jupiler Pro League,KRC Genk,England,Premier League,Brighton & Hove Albion,15000000,2019
+211,Angeliño,Left-Back,22,16000000,Netherlands,Eredivisie,PSV Eindhoven,England,Premier League,Manchester City,12000000,2019
+212,Martin Hinteregger,Centre-Back,26,16000000,Germany,Bundesliga,FC Augsburg,Germany,Bundesliga,Eintracht Frankfurt,9000000,2019
+213,Jean-Kévin Augustin,Centre-Forward,22,16000000,Germany,Bundesliga,RB Leipzig,Monaco,Ligue 1,AS Monaco,4000000,2019
+214,Angeliño,Left-Back,23,16000000,England,Premier League,Manchester City,Germany,Bundesliga,RB Leipzig,2000000,2019
+215,Mattia Caldara,Centre-Back,25,16000000,Italy,Serie A,AC Milan,Italy,Serie A,Atalanta BC,900k,2019
+216,Moussa Djenepo,Left Winger,21,12000000,Belgium,Jupiler Pro League,Standard Liège,England,Premier League,Southampton FC,15000000,2019
+217,Neal Maupay,Centre-Forward,22,12000000,England,Championship,Brentford FC,England,Premier League,Brighton & Hove Albion,15000000,2019
+218,Matt Targett,Left-Back,23,7000000,England,Premier League,Southampton FC,England,Premier League,Aston Villa,15000000,2019
+219,Darwin Núñez,Centre-Forward,20,750k,Uruguay,Primera División Clausura,CA Peñarol,Spain,LaLiga SmartBank,UD Almería,15000000,2019
+220,Theo Hernández,Left-Back,21,15000000,Spain,LaLiga,Real Madrid,Italy,Serie A,AC Milan,22000000,2019
+221,Moussa Diaby,Right Winger,19,12000000,France,Ligue 1,Paris Saint-Germain,Germany,Bundesliga,Bayer 04 Leverkusen,15000000,2019
+222,Ozan Kabak,Centre-Back,19,15000000,Germany,2. Bundesliga,VfB Stuttgart,Germany,Bundesliga,FC Schalke 04,15000000,2019
+223,Youssouf Fofana,Central Midfield,21,6000000,France,Ligue 1,RC Strasbourg Alsace,Monaco,Ligue 1,AS Monaco,15000000,2019
+224,M'Baye Niang,Centre-Forward,24,12000000,Italy,Serie A,Torino FC,France,Ligue 1,Stade Rennais FC,15000000,2019
+225,Riccardo Orsolini,Right Winger,22,15000000,Italy,Serie A,Juventus FC,Italy,Serie A,Bologna FC 1909,15000000,2019
+226,Ozan Kabak,Centre-Back,19,15000000,Germany,2. Bundesliga,VfB Stuttgart,Germany,Bundesliga,FC Schalke 04,15000000,2019
+227,Lucas Ocampos,Left Winger,24,15000000,France,Ligue 1,Olympique Marseille,Spain,LaLiga,Sevilla FC,15000000,2019
+228,Edson Álvarez,Defensive Midfield,21,7000000,Mexico,Liga MX Clausura,CF América,Netherlands,Eredivisie,Ajax Amsterdam,15000000,2019
+229,Keylor Navas,Goalkeeper,32,10000000,Spain,LaLiga,Real Madrid,France,Ligue 1,Paris Saint-Germain,15000000,2019
+230,Youssouf Fofana,Central Midfield,21,6000000,France,Ligue 1,RC Strasbourg Alsace,Monaco,Ligue 1,AS Monaco,15000000,2019
+231,Darío Benedetto,Centre-Forward,29,15000000,Argentina,Superliga,CA Boca Juniors,France,Ligue 1,Olympique Marseille,14000000,2019
+232,Valentin Rongier,Central Midfield,24,15000000,France,Ligue 1,FC Nantes,France,Ligue 1,Olympique Marseille,13000000,2019
+233,Xaver Schlager,Central Midfield,21,15000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,VfL Wolfsburg,12000000,2019
+234,Ionut Radu,Goalkeeper,22,15000000,Italy,Serie A,Genoa CFC,Italy,Serie A,Inter Milan,10000000,2019
+235,Fabian Delph,Central Midfield,29,15000000,England,Premier League,Manchester City,England,Premier League,Everton FC,9000000,2019
+236,Ionut Radu,Goalkeeper,22,15000000,Italy,Serie A,Inter Milan,Italy,Serie A,Genoa CFC,8000000,2019
+237,Merih Demiral,Centre-Back,21,15000000,Turkey,Süper Lig,Alanyaspor,Italy,Serie A,US Sassuolo,8000000,2019
+238,Gedson Fernandes,Central Midfield,21,15000000,Portugal,Liga NOS,SL Benfica,England,Premier League,Tottenham Hotspur,4000000,2019
+239,Patrik Schick,Centre-Forward,23,15000000,Italy,Serie A,AS Roma,Germany,Bundesliga,RB Leipzig,3000000,2019
+240,Djibril Sidibé,Right-Back,27,15000000,Monaco,Ligue 1,AS Monaco,England,Premier League,Everton FC,2000000,2019
+241,Martin Ødegaard,Attacking Midfield,20,15000000,Spain,LaLiga,Real Madrid,Spain,LaLiga,Real Sociedad,2000000,2019
+242,Cristian Pavón,Left Winger,23,15000000,Argentina,Superliga,CA Boca Juniors,United States,MLS,Los Angeles Galaxy,1000000,2019
+243,Rafinha,Attacking Midfield,26,15000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Celta de Vigo,1000000,2019
+244,Mario Lemina,Defensive Midfield,26,15000000,England,Premier League,Southampton FC,Turkey,Süper Lig,Galatasaray,1000000,2019
+245,Pedro,Centre-Forward,22,15000000,Italy,Serie A,ACF Fiorentina,Brazil,Série A,CR Flamengo,1000000,2019
+246,Daniel Sturridge,Centre-Forward,29,15000000,England,Premier League,Liverpool FC,Turkey,Süper Lig,Trabzonspor,free transfer,2019
+247,Hélder Costa,Right Winger,25,15000000,England,Premier League,Wolverhampton Wanderers,England,Championship,Leeds United,loan transfer,2019
+248,Sergio Reguilón,Left-Back,22,15000000,Spain,LaLiga,Real Madrid,Spain,LaLiga,Sevilla FC,loan transfer,2019
+249,Ionut Radu,Goalkeeper,22,15000000,Italy,Serie A,Inter Milan,Italy,Serie A,Genoa CFC,loan transfer,2019
+250,Cristian Romero,Centre-Back,21,15000000,Italy,Serie A,Juventus FC,Italy,Serie A,Genoa CFC,loan transfer,2019
+251,Roberto Inglese,Centre-Forward,27,15000000,Italy,Serie A,SSC Napoli,Italy,Serie A,Parma Calcio 1913,loan transfer,2019
+252,Davide Zappacosta,Right-Back,27,15000000,England,Premier League,Chelsea FC,Italy,Serie A,AS Roma,loan transfer,2019
+253,Mohamed Elyounoussi,Left Winger,25,15000000,England,Premier League,Southampton FC,Scotland,Premiership,Celtic FC,loan transfer,2019
+254,Cenk Tosun,Centre-Forward,28,15000000,England,Premier League,Everton FC,England,Premier League,Crystal Palace,loan transfer,2019
+255,Ionut Radu,Goalkeeper,22,15000000,Italy,Serie A,Inter Milan,Italy,Serie A,Parma Calcio 1913,loan transfer,2019
+256,Lloyd Kelly,Centre-Back,20,9000000,England,Championship,Bristol City,England,Premier League,AFC Bournemouth,14000000,2019
+257,Jakub Jankto,Left Midfield,23,12000000,Italy,Serie A,Udinese Calcio,Italy,Serie A,UC Sampdoria,14000000,2019
+258,Amir Rrahmani,Centre-Back,25,6000000,Italy,Serie A,Hellas Verona,Italy,Serie A,SSC Napoli,14000000,2019
+259,Manuel Locatelli,Defensive Midfield,21,12000000,Italy,Serie A,AC Milan,Italy,Serie A,US Sassuolo,14000000,2019
+260,Joan Jordán,Central Midfield,24,12000000,Spain,LaLiga,SD Eibar,Spain,LaLiga,Sevilla FC,14000000,2019
+261,Rémy Cabella,Attacking Midfield,29,14000000,France,Ligue 1,AS Saint-Étienne,Russia,Premier Liga,FK Krasnodar,12000000,2019
+262,Breel Embolo,Centre-Forward,22,14000000,Germany,Bundesliga,FC Schalke 04,Germany,Bundesliga,Borussia Mönchengladbach,11000000,2019
+263,Tonny Vilhena,Central Midfield,24,14000000,Netherlands,Eredivisie,Feyenoord Rotterdam,Russia,Premier Liga,FK Krasnodar,9000000,2019
+264,Hamed Junior Traorè,Attacking Midfield,19,14000000,Italy,Serie B,Empoli FC ,Italy,Serie A,US Sassuolo,loan transfer,2019
+265,Aaron Mooy,Central Midfield,28,14000000,England,Championship,Huddersfield Town,England,Premier League,Brighton & Hove Albion,loan transfer,2019
+266,Jean-Kévin Augustin,Centre-Forward,22,14000000,Germany,Bundesliga,RB Leipzig,England,Championship,Leeds United,loan transfer,2019
+267,Ruslan Malinovskyi,Attacking Midfield,26,12000000,Belgium,Jupiler Pro League,KRC Genk,Italy,Serie A,Atalanta BC,13000000,2019
+268,Henry Onyekuru,Left Winger,22,13000000,England,Premier League,Everton FC,Monaco,Ligue 1,AS Monaco,13000000,2019
+269,Razvan Marin,Central Midfield,23,13000000,Belgium,Jupiler Pro League,Standard Liège,Netherlands,Eredivisie,Ajax Amsterdam,12000000,2019
+270,Steven Nzonzi,Defensive Midfield,31,13000000,Italy,Serie A,AS Roma,France,Ligue 1,Stade Rennais FC,loan transfer,2019
+271,Ezri Konsa,Centre-Back,21,3000000,England,Championship,Brentford FC,England,Premier League,Aston Villa,13000000,2019
+272,Jeison Murillo,Centre-Back,27,8000000,Spain,LaLiga,Valencia CF,Italy,Serie A,UC Sampdoria,13000000,2019
+273,Gerson,Central Midfield,22,13000000,Italy,Serie A,AS Roma,Brazil,Série A,CR Flamengo,13000000,2019
+274,Christopher Nkunku,Second Striker,21,12000000,France,Ligue 1,Paris Saint-Germain,Germany,Bundesliga,RB Leipzig,13000000,2019
+275,Alexis Claude-Maurice,Attacking Midfield,21,7000000,France,Ligue 2,FC Lorient,France,Ligue 1,OGC Nice,13000000,2019
+276,Robert Skov,Right Midfield,23,13000000,Denmark,Superligaen Championship round,FC Copenhagen,Germany,Bundesliga,TSG 1899 Hoffenheim,10000000,2019
+277,Victor Osimhen,Centre-Forward,20,13000000,Germany,Bundesliga,VfL Wolfsburg,Belgium,Jupiler Pro League,RSC Charleroi,3000000,2019
+278,Pol Lirola,Right-Back,21,13000000,Italy,Serie A,US Sassuolo,Italy,Serie A,ACF Fiorentina,2000000,2019
+279,Ondrej Duda,Attacking Midfield,25,13000000,Germany,Bundesliga,Hertha BSC,England,Premier League,Norwich City,loan transfer,2019
+280,Iago Falque,Right Winger,30,13000000,Italy,Serie A,Torino FC,Italy,Serie A,Genoa CFC,loan transfer,2019
+281,Denis Suárez,Attacking Midfield,25,12000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Celta de Vigo,12000000,2019
+282,Stefan Lainer,Right-Back,26,12000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,Borussia Mönchengladbach,12000000,2019
+283,Luuk de Jong,Centre-Forward,28,12000000,Netherlands,Eredivisie,PSV Eindhoven,Spain,LaLiga,Sevilla FC,12000000,2019
+284,Isaac Mbenza,Right Winger,23,5000000,France,Ligue 1,Montpellier HSC,England,Championship,Huddersfield Town,12000000,2019
+285,Stanley Nsoki,Centre-Back,20,8000000,France,Ligue 1,Paris Saint-Germain,France,Ligue 1,OGC Nice,12000000,2019
+286,Takumi Minamino,Left Winger,24,12000000,Austria,Bundesliga,Red Bull Salzburg,England,Premier League,Liverpool FC,8000000,2019
+287,Nicolás Domínguez,Central Midfield,21,12000000,Argentina,Superliga,CA Vélez Sarsfield,Italy,Serie A,Bologna FC 1909,8000000,2019
+288,Andy Delort,Centre-Forward,27,12000000,France,Ligue 1,FC Toulouse,France,Ligue 1,Montpellier HSC,4000000,2019
+289,Nicolás Domínguez,Central Midfield,21,12000000,Italy,Serie A,Bologna FC 1909,Argentina,Superliga,CA Vélez Sarsfield,loan transfer,2019
+290,Erick Pulgar,Defensive Midfield,25,10000000,Italy,Serie A,Bologna FC 1909,Italy,Serie A,ACF Fiorentina,12000000,2019
+291,Simone Zaza,Centre-Forward,28,10000000,Spain,LaLiga,Valencia CF,Italy,Serie A,Torino FC,12000000,2019
+292,Hannes Wolf,Left Winger,20,12000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,RB Leipzig,12000000,2019
+293,Bruma,Left Winger,24,10000000,Germany,Bundesliga,RB Leipzig,Netherlands,Eredivisie,PSV Eindhoven,12000000,2019
+294,Marvelous Nakamba,Defensive Midfield,25,6000000,Belgium,Jupiler Pro League,Club Brugge KV,England,Premier League,Aston Villa,12000000,2019
+295,Pedro Porro,Right-Back,19,10000000,Spain,LaLiga SmartBank,Girona FC,England,Premier League,Manchester City,12000000,2019
+296,Alex Kral,Defensive Midfield,21,3000000,Czech Republic,Fortuna Liga Champ. Gr.,SK Slavia Prague,Russia,Premier Liga,Spartak Moscow,12000000,2019
+297,Thierry Correia,Right-Back,20,400k,Portugal,Liga NOS,Sporting CP,Spain,LaLiga,Valencia CF,12000000,2019
+298,Munas Dabbur,Centre-Forward,27,10000000,Spain,LaLiga,Sevilla FC,Germany,Bundesliga,TSG 1899 Hoffenheim,12000000,2019
+299,Tino Kadewere,Centre-Forward,24,4000000,France,Ligue 2,AC Le Havre,France,Ligue 1,Olympique Lyon,12000000,2019
+300,Hannes Wolf,Left Winger,20,12000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,RB Leipzig,12000000,2019
+301,Ally Samatta,Centre-Forward,27,12000000,Belgium,Jupiler Pro League,KRC Genk,England,Premier League,Aston Villa,10000000,2019
+302,Benito Raman,Centre-Forward,24,12000000,Germany,Bundesliga,Fortuna Düsseldorf,Germany,Bundesliga,FC Schalke 04,10000000,2019
+303,Álex Moreno,Left-Back,26,12000000,Spain,LaLiga SmartBank,Rayo Vallecano,Spain,LaLiga,Real Betis Balompié,9000000,2019
+304,Téji Savanier,Attacking Midfield,27,12000000,France,Ligue 1,Nîmes Olympique,France,Ligue 1,Montpellier HSC,9000000,2019
+305,Jacob Bruun Larsen,Left Winger,21,12000000,Germany,Bundesliga,Borussia Dortmund,Germany,Bundesliga,TSG 1899 Hoffenheim,9000000,2019
+306,Ihlas Bebou,Centre-Forward,25,12000000,Germany,2. Bundesliga,Hannover 96,Germany,Bundesliga,TSG 1899 Hoffenheim,8000000,2019
+307,Chicharito,Centre-Forward,31,12000000,England,Premier League,West Ham United,Spain,LaLiga,Sevilla FC,7000000,2019
+308,Adem Ljajić,Attacking Midfield,27,12000000,Italy,Serie A,Torino FC,Turkey,Süper Lig,Besiktas JK,6000000,2019
+309,Ellyes Skhiri,Defensive Midfield,24,12000000,France,Ligue 1,Montpellier HSC,Germany,Bundesliga,1. FC Köln,6000000,2019
+310,Dyego Sousa,Centre-Forward,29,12000000,Portugal,Liga NOS,SC Braga,China,Super League,Shenzhen FC,5000000,2019
+311,Aaron Mooy,Central Midfield,29,12000000,England,Championship,Huddersfield Town,England,Premier League,Brighton & Hove Albion,3000000,2019
+312,Grégoire Defrel,Centre-Forward,28,12000000,Italy,Serie A,AS Roma,Italy,Serie A,US Sassuolo,3000000,2019
+313,Harry Wilson,Right Winger,22,12000000,England,Premier League,Liverpool FC,England,Premier League,AFC Bournemouth,2000000,2019
+314,André Schürrle,Left Winger,28,12000000,Germany,Bundesliga,Borussia Dortmund,Russia,Premier Liga,Spartak Moscow,1000000,2019
+315,Diego Laxalt,Left-Back,26,12000000,Italy,Serie A,AC Milan,Italy,Serie A,Torino FC,500k,2019
+316,Max Kruse,Second Striker,31,12000000,Germany,Bundesliga,SV Werder Bremen,Turkey,Süper Lig,Fenerbahce,free transfer,2019
+317,Jürgen Locadia,Centre-Forward,25,12000000,England,Premier League,Brighton & Hove Albion,Germany,Bundesliga,TSG 1899 Hoffenheim,loan transfer,2019
+318,Sergio Rico,Goalkeeper,26,12000000,Spain,LaLiga,Sevilla FC,France,Ligue 1,Paris Saint-Germain,loan transfer,2019
+319,William Saliba,Centre-Back,18,12000000,England,Premier League,Arsenal FC,France,Ligue 1,AS Saint-Étienne,loan transfer,2019
+320,Terence Kongolo,Centre-Back,25,12000000,England,Championship,Huddersfield Town,England,Championship,Fulham FC,loan transfer,2019
+321,Danny Welbeck,Centre-Forward,28,12000000,England,Premier League,Arsenal FC,England,Premier League,Watford FC,free transfer,2019
+322,Wesley Hoedt,Centre-Back,25,12000000,England,Premier League,Southampton FC,Belgium,Jupiler Pro League,Royal Antwerp FC,loan transfer,2019
+323,Victor Wanyama,Defensive Midfield,28,12000000,England,Premier League,Tottenham Hotspur,Canada,MLS,Montreal Impact,free transfer,2019
+324,Ivan Cavaleiro,Left Winger,26,10000000,England,Premier League,Wolverhampton Wanderers,England,Championship,Fulham FC,11000000,2019
+325,Zinho Vanheusden,Centre-Back,19,10000000,Italy,Serie A,Inter Milan,Belgium,Jupiler Pro League,Standard Liège,11000000,2019
+326,Fernando,Defensive Midfield,27,11000000,Russia,Premier Liga,Spartak Moscow,China,Super League,Beijing Guoan,5000000,2019
+327,Albian Ajeti,Centre-Forward,22,7000000,Switzerland,Super League,FC Basel 1893,England,Premier League,West Ham United,11000000,2019
+328,Noah Okafor,Centre-Forward,19,8000000,Switzerland,Super League,FC Basel 1893,Austria,Bundesliga,Red Bull Salzburg,11000000,2019
+329,Lys Mousset,Centre-Forward,23,3000000,England,Premier League,AFC Bournemouth,England,Premier League,Sheffield United,11000000,2019
+330,Pedro Neto,Right Winger,19,2000000,Portugal,Liga NOS,SC Braga,Italy,Serie A,SS Lazio,11000000,2019
+331,Luciano Vietto,Centre-Forward,25,7000000,Spain,LaLiga,Atlético de Madrid,Portugal,Liga NOS,Sporting CP,11000000,2019
+332,Jack Clarke,Left Winger,18,6000000,England,Championship,Leeds United,England,Premier League,Tottenham Hotspur,11000000,2019
+333,Matías Vargas,Left Winger,22,11000000,Argentina,Superliga,CA Vélez Sarsfield,Spain,LaLiga,RCD Espanyol Barcelona,10000000,2019
+334,Rémi Oudin,Right Winger,23,11000000,France,Ligue 1,Stade Reims,France,Ligue 1,FC Girondins Bordeaux,10000000,2019
+335,Yannick Bolasie,Left Winger,30,11000000,England,Premier League,Everton FC,Portugal,Liga NOS,Sporting CP,loan transfer,2019
+336,Rodolfo Pizarro,Attacking Midfield,26,10000000,Mexico,Liga MX Clausura,CF Monterrey,United States,MLS,Inter Miami CF,10000000,2019
+337,Zé Luís,Centre-Forward,28,8000000,Russia,Premier Liga,Spartak Moscow,Portugal,Liga NOS,FC Porto,10000000,2019
+338,Léo Duarte,Centre-Back,23,4000000,Brazil,Série A,CR Flamengo,Italy,Serie A,AC Milan,10000000,2019
+339,Maximilian Wöber,Centre-Back,21,10000000,Netherlands,Eredivisie,Ajax Amsterdam,Spain,LaLiga,Sevilla FC,10000000,2019
+340,Denis Vavro,Centre-Back,23,6000000,Denmark,Superligaen Championship round,FC Copenhagen,Italy,Serie A,SS Lazio,10000000,2019
+341,Maximilian Wöber,Centre-Back,21,10000000,Spain,LaLiga,Sevilla FC,Austria,Bundesliga,Red Bull Salzburg,10000000,2019
+342,Brian Rodríguez,Left Winger,19,1000000,Uruguay,Primera División Clausura,CA Peñarol,United States,MLS,Los Angeles FC,10000000,2019
+343,Douglas Santos,Left-Back,25,10000000,Germany,2. Bundesliga,Hamburger SV,Russia,Premier Liga,Zenit St. Petersburg,13000000,2019
+344,Portu,Right Winger,27,10000000,Spain,LaLiga SmartBank,Girona FC,Spain,LaLiga,Real Sociedad,10000000,2019
+345,Eddie Salcedo,Centre-Forward,17,2000000,Italy,Serie A,Genoa CFC,Italy,Serie A,Inter Milan,10000000,2019
+346,Djibril Sow,Central Midfield,22,9000000,Switzerland,Super League,BSC Young Boys,Germany,Bundesliga,Eintracht Frankfurt,10000000,2019
+347,Timothy Weah,Right Winger,19,6000000,France,Ligue 1,Paris Saint-Germain,France,Ligue 1,LOSC Lille,10000000,2019
+348,Mahmoud Trezeguet,Left Winger,24,6000000,Turkey,Süper Lig,Kasimpasa,England,Premier League,Aston Villa,10000000,2019
+349,Timo Baumgartl,Centre-Back,23,9000000,Germany,2. Bundesliga,VfB Stuttgart,Netherlands,Eredivisie,PSV Eindhoven,10000000,2019
+350,Hannibal,Attacking Midfield,16,-,Monaco,Without League,AS Monaco Youth,England,U18 Premier League,Manchester United U18,10000000,2019
+351,Arthur Zagré,Left-Back,17,-,France,Ligue 1,Paris Saint-Germain,Monaco,Ligue 1,AS Monaco,10000000,2019
+352,Strahinja Pavlovic,Centre-Back,18,8000000,Serbia,Super liga,FK Partizan Belgrade,Monaco,Ligue 1,AS Monaco,10000000,2019
+353,Santiago Ascacíbar,Defensive Midfield,22,10000000,Germany,2. Bundesliga,VfB Stuttgart,Germany,Bundesliga,Hertha BSC,10000000,2019
+354,Adrián Embarba,Right Winger,27,4000000,Spain,LaLiga SmartBank,Rayo Vallecano,Spain,LaLiga,RCD Espanyol Barcelona,10000000,2019
+355,Jean Marcelin,Centre-Back,19,1000000,France,Ligue 2,AJ Auxerre,Monaco,Ligue 1,AS Monaco,10000000,2019
+356,Josh Brownhill,Central Midfield,24,4000000,England,Championship,Bristol City,England,Premier League,Burnley FC,10000000,2019
+357,Jay Rodríguez,Centre-Forward,29,10000000,England,Championship,West Bromwich Albion,England,Premier League,Burnley FC,10000000,2019
+358,Ola Aina,Right-Back,22,10000000,England,Premier League,Chelsea FC,Italy,Serie A,Torino FC,9000000,2019
+359,Kevin Mbabu,Right-Back,24,10000000,Switzerland,Super League,BSC Young Boys,Germany,Bundesliga,VfL Wolfsburg,9000000,2019
+360,Leandro Cabrera,Centre-Back,28,10000000,Spain,LaLiga,Getafe CF,Spain,LaLiga,RCD Espanyol Barcelona,9000000,2019
+361,Bobby De Cordova-Reid,Attacking Midfield,26,10000000,Wales,Championship,Cardiff City,England,Championship,Fulham FC,8000000,2019
+362,Rubén Peña,Right-Back,27,10000000,Spain,LaLiga,SD Eibar,Spain,LaLiga,Villarreal CF,8000000,2019
+363,Fernando Calero,Centre-Back,23,10000000,Spain,LaLiga,Real Valladolid CF,Spain,LaLiga,RCD Espanyol Barcelona,8000000,2019
+364,Ritsu Doan,Right Winger,21,10000000,Netherlands,Eredivisie,FC Groningen,Netherlands,Eredivisie,PSV Eindhoven,7000000,2019
+365,Benjamin André,Defensive Midfield,28,10000000,France,Ligue 1,Stade Rennais FC,France,Ligue 1,LOSC Lille,7000000,2019
+366,Eduardo Salvio,Right Winger,29,10000000,Portugal,Liga NOS,SL Benfica,Argentina,Superliga,CA Boca Juniors,7000000,2019
+367,Kevin Trapp,Goalkeeper,29,10000000,France,Ligue 1,Paris Saint-Germain,Germany,Bundesliga,Eintracht Frankfurt,7000000,2019
+368,Rogério,Left-Back,21,10000000,Italy,Serie A,Juventus FC,Italy,Serie A,US Sassuolo,6000000,2019
+369,Luiz Gustavo,Defensive Midfield,32,10000000,France,Ligue 1,Olympique Marseille,Turkey,Süper Lig,Fenerbahce,6000000,2019
+370,Ivan Cavaleiro,Left Winger,25,10000000,England,Premier League,Wolverhampton Wanderers,England,Championship,Fulham FC,5000000,2019
+371,Gastón Pereiro,Attacking Midfield,24,10000000,Netherlands,Eredivisie,PSV Eindhoven,Italy,Serie A,Cagliari Calcio,4000000,2019
+372,Tomas Soucek,Defensive Midfield,24,10000000,Czech Republic,Fortuna Liga Champ. Gr.,SK Slavia Prague,England,Premier League,West Ham United,4000000,2019
+373,Marc Cucurella,Left-Back,20,10000000,Spain,LaLiga,SD Eibar,Spain,LaLiga,FC Barcelona,4000000,2019
+374,Guido Rodríguez,Defensive Midfield,25,10000000,Mexico,Liga MX Clausura,CF América,Spain,LaLiga,Real Betis Balompié,4000000,2019
+375,Sofyan Amrabat,Defensive Midfield,23,10000000,Belgium,Jupiler Pro League,Club Brugge KV,Italy,Serie A,Hellas Verona,3000000,2019
+376,Matteo Darmian,Right-Back,29,10000000,England,Premier League,Manchester United,Italy,Serie A,Parma Calcio 1913,2000000,2019
+377,Adam Ounas,Right Winger,22,10000000,Italy,Serie A,SSC Napoli,France,Ligue 1,OGC Nice,2000000,2019
+378,Marc Cucurella,Left-Back,20,10000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,SD Eibar,2000000,2019
+379,Nikola Kalinic,Centre-Forward,31,10000000,Spain,LaLiga,Atlético de Madrid,Italy,Serie A,AS Roma,2000000,2019
+380,Víctor Camarasa,Central Midfield,25,10000000,Spain,LaLiga,Real Betis Balompié,England,Premier League,Crystal Palace,1000000,2019
+381,Gerónimo Rulli,Goalkeeper,27,10000000,Spain,LaLiga,Real Sociedad,France,Ligue 1,Montpellier HSC,1000000,2019
+382,Jean-Clair Todibo,Centre-Back,20,10000000,Spain,LaLiga,FC Barcelona,Germany,Bundesliga,FC Schalke 04,1000000,2019
+383,Jony,Left Winger,28,10000000,Spain,LaLiga SmartBank,Málaga CF,Italy,Serie A,SS Lazio,1000000,2019
+384,Carles Pérez,Right Winger,21,10000000,Spain,LaLiga,FC Barcelona,Italy,Serie A,AS Roma,1000000,2019
+385,Davie Selke,Centre-Forward,25,10000000,Germany,Bundesliga,Hertha BSC,Germany,Bundesliga,SV Werder Bremen,1000000,2019
+386,Henry Onyekuru,Left Winger,22,10000000,Monaco,Ligue 1,AS Monaco,Turkey,Süper Lig,Galatasaray,750k,2019
+387,Kevin Vogt,Centre-Back,28,10000000,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,SV Werder Bremen,750k,2019
+388,Ethan Ampadu,Centre-Back,18,10000000,England,Premier League,Chelsea FC,Germany,Bundesliga,RB Leipzig,650k,2019
+389,Mattia Perin,Goalkeeper,27,10000000,Italy,Serie A,Juventus FC,Italy,Serie A,Genoa CFC,521k,2019
+390,Andrea Pinamonti,Centre-Forward,20,10000000,Italy,Serie A,Inter Milan,Italy,Serie A,Genoa CFC,500k,2019
+391,Marcelo Saracchi,Left-Back,21,10000000,Germany,Bundesliga,RB Leipzig,Turkey,Süper Lig,Galatasaray,500k,2019
+392,Ricardo Rodríguez,Centre-Back,27,10000000,Italy,Serie A,AC Milan,Netherlands,Eredivisie,PSV Eindhoven,250k,2019
+393,Jeison Murillo,Centre-Back,27,10000000,Spain,LaLiga,Valencia CF,Italy,Serie A,UC Sampdoria,loan transfer,2019
+394,Yann Karamoh,Left Winger,21,10000000,Italy,Serie A,Inter Milan,Italy,Serie A,Parma Calcio 1913,loan transfer,2019
+395,Marc Cucurella,Left-Back,20,10000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Getafe CF,loan transfer,2019
+396,Jesús Vallejo,Centre-Back,22,10000000,Spain,LaLiga,Real Madrid,England,Premier League,Wolverhampton Wanderers,loan transfer,2019
+397,Bobby De Cordova-Reid,Attacking Midfield,26,10000000,Wales,Championship,Cardiff City,England,Championship,Fulham FC,loan transfer,2019
+398,Pedro Porro,Right-Back,19,10000000,England,Premier League,Manchester City,Spain,LaLiga,Real Valladolid CF,loan transfer,2019
+399,Eliaquim Mangala,Centre-Back,28,10000000,England,Premier League,Manchester City,Spain,LaLiga,Valencia CF,free transfer,2019
+400,Cucho Hernández,Centre-Forward,20,10000000,England,Premier League,Watford FC,Spain,LaLiga,RCD Mallorca,loan transfer,2019
+401,Dalbert,Left-Back,25,10000000,Italy,Serie A,Inter Milan,Italy,Serie A,ACF Fiorentina,loan transfer,2019
+402,Cristiano Biraghi,Left-Back,26,10000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Inter Milan,loan transfer,2019
+403,Youssef Aït Bennasser,Defensive Midfield,23,10000000,Monaco,Ligue 1,AS Monaco,France,Ligue 1,FC Girondins Bordeaux,loan transfer,2019
+404,Oliver Burke,Centre-Forward,22,10000000,England,Championship,West Bromwich Albion,Spain,LaLiga,Deportivo Alavés,loan transfer,2019
+405,Kenedy,Left Winger,23,10000000,England,Premier League,Chelsea FC,Spain,LaLiga,Getafe CF,loan transfer,2019
+406,Javi Montero,Centre-Back,20,10000000,Spain,LaLiga,Atlético de Madrid,Spain,LaLiga SmartBank,Deportivo de La Coruña,loan transfer,2019
+407,Radamel Falcao,Centre-Forward,33,10000000,Monaco,Ligue 1,AS Monaco,Turkey,Süper Lig,Galatasaray,free transfer,2019
+408,Mario Mandzukic,Centre-Forward,33,10000000,Italy,Serie A,Juventus FC,Qatar,Stars League,Al-Duhail SC,free transfer,2019
+409,Antonin Barak,Attacking Midfield,25,10000000,Italy,Serie A,Udinese Calcio,Italy,Serie A,US Lecce,loan transfer,2019
+410,Kyle Walker-Peters,Right-Back,22,10000000,England,Premier League,Tottenham Hotspur,England,Premier League,Southampton FC,loan transfer,2019
+411,Marcos Rojo,Centre-Back,29,10000000,England,Premier League,Manchester United,Argentina,Copa Maradona,Club Estudiantes de La Plata,loan transfer,2019
+412,Bryan Gil,Left Winger,18,10000000,Spain,LaLiga,Sevilla FC,Spain,LaLiga,CD Leganés,loan transfer,2019
+413,Cédric Soares,Right-Back,28,10000000,England,Premier League,Southampton FC,England,Premier League,Arsenal FC,loan transfer,2019
+414,Adama Soumaoro,Centre-Back,27,10000000,France,Ligue 1,LOSC Lille,Italy,Serie A,Genoa CFC,loan transfer,2019
+415,Sofyan Amrabat,Defensive Midfield,23,10000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Hellas Verona,loan transfer,2019
+416,Jürgen Locadia,Centre-Forward,26,10000000,England,Premier League,Brighton & Hove Albion,United States,MLS,FC Cincinnati,loan transfer,2019
+417,Uriel Antuna,Right Winger,22,3000000,England,Premier League 2,Manchester City U23,Mexico,Liga MX Clausura,Deportivo Guadalajara,9000000,2019
+418,Fernando,Defensive Midfield,27,9000000,Russia,Premier Liga,Spartak Moscow,China,Super League,Beijing Guoan,9000000,2019
+419,André Carrillo,Right Winger,28,7000000,Portugal,Liga NOS,SL Benfica,Saudi Arabia,Saudi Pro League,Al-Hilal Saudi FC,9000000,2019
+420,Mateus Uribe,Defensive Midfield,28,7000000,Mexico,Liga MX Clausura,CF América,Portugal,Liga NOS,FC Porto,9000000,2019
+421,Alberto Cerri,Centre-Forward,23,6000000,Italy,Serie A,Juventus FC,Italy,Serie A,Cagliari Calcio,9000000,2019
+422,Anwar El Ghazi,Right Winger,24,7000000,France,Ligue 1,LOSC Lille,England,Premier League,Aston Villa,9000000,2019
+423,Tomas Kalas,Centre-Back,26,4000000,England,Premier League,Chelsea FC,England,Championship,Bristol City,9000000,2019
+424,Youssouf Koné,Left-Back,23,5000000,France,Ligue 1,LOSC Lille,France,Ligue 1,Olympique Lyon,9000000,2019
+425,Flavien Tait,Central Midfield,26,8000000,France,Ligue 1,Angers SCO,France,Ligue 1,Stade Rennais FC,9000000,2019
+426,Marcus Thuram,Centre-Forward,21,9000000,France,Ligue 2,EA Guingamp,Germany,Bundesliga,Borussia Mönchengladbach,9000000,2019
+427,Vincent Janssen,Centre-Forward,25,8000000,England,Premier League,Tottenham Hotspur,Mexico,Liga MX Clausura,CF Monterrey,9000000,2019
+428,Nicolás López,Centre-Forward,26,3000000,Brazil,Série A,Sport Club Internacional,Mexico,Liga MX Clausura,Tigres UANL,9000000,2019
+429,Marin Pongracic,Centre-Back,22,6000000,Austria,Bundesliga,Red Bull Salzburg,Germany,Bundesliga,VfL Wolfsburg,9000000,2019
+430,Chicharito,Centre-Forward,31,9000000,Spain,LaLiga,Sevilla FC,United States,MLS,Los Angeles Galaxy,8000000,2019
+431,Giovanni Di Lorenzo,Right-Back,25,9000000,Italy,Serie B,Empoli FC ,Italy,Serie A,SSC Napoli,8000000,2019
+432,Edouard Mendy,Goalkeeper,27,9000000,France,Ligue 1,Stade Reims,France,Ligue 1,Stade Rennais FC,7000000,2019
+433,Takehiro Tomiyasu,Right-Back,20,9000000,Belgium,Jupiler Pro League,Sint-Truidense VV,Italy,Serie A,Bologna FC 1909,7000000,2019
+434,Vincenzo Grifo,Left Winger,26,9000000,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,SC Freiburg,7000000,2019
+435,Mbaye Diagne,Centre-Forward,27,9000000,Turkey,Süper Lig,Galatasaray,Belgium,Jupiler Pro League,Club Brugge KV,1000000,2019
+436,Sebastian Rudy,Defensive Midfield,29,9000000,Germany,Bundesliga,FC Schalke 04,Germany,Bundesliga,TSG 1899 Hoffenheim,850k,2019
+437,Milan Badelj,Defensive Midfield,30,9000000,Italy,Serie A,SS Lazio,Italy,Serie A,ACF Fiorentina,700k,2019
+438,Fedor Smolov,Centre-Forward,29,9000000,Russia,Premier Liga,Lokomotiv Moscow,Spain,LaLiga,Celta de Vigo,700k,2019
+439,Alberto Moreno,Left-Back,27,9000000,England,Premier League,Liverpool FC,Spain,LaLiga,Villarreal CF,free transfer,2019
+440,Jonathan Calleri,Centre-Forward,25,9000000,Uruguay,Liga de Ascenso,Club Deportivo Maldonado,Spain,LaLiga,RCD Espanyol Barcelona,loan transfer,2019
+441,Jonathan Viera,Attacking Midfield,29,9000000,China,Super League,Beijing Guoan,Spain,LaLiga SmartBank,UD Las Palmas,loan transfer,2019
+442,Panagiotis Retsos,Centre-Back,21,9000000,Germany,Bundesliga,Bayer 04 Leverkusen,England,Premier League,Sheffield United,loan transfer,2019
+443,Filip Benkovic,Centre-Back,22,9000000,England,Premier League,Leicester City,England,Championship,Bristol City,loan transfer,2019
+444,Kenneth Zohore,Centre-Forward,25,7000000,Wales,Championship,Cardiff City,England,Championship,West Bromwich Albion,8000000,2019
+445,Bruno Jordão,Central Midfield,20,1000000,Italy,Serie A,SS Lazio,England,Premier League,Wolverhampton Wanderers,8000000,2019
+446,Arvin Appiah,Right Winger,18,250k,England,Championship,Nottingham Forest,Spain,LaLiga SmartBank,UD Almería,8000000,2019
+447,Tom Heaton,Goalkeeper,33,3000000,England,Premier League,Burnley FC,England,Premier League,Aston Villa,8000000,2019
+448,Alan Pulido,Centre-Forward,28,4000000,Mexico,Liga MX Clausura,Deportivo Guadalajara,United States,MLS,Sporting Kansas City,8000000,2019
+449,Rade Krunic,Central Midfield,25,8000000,Italy,Serie B,Empoli FC ,Italy,Serie A,AC Milan,8000000,2019
+450,Dominik Kohr,Central Midfield,25,4000000,Germany,Bundesliga,Bayer 04 Leverkusen,Germany,Bundesliga,Eintracht Frankfurt,8000000,2019
+451,Ignacio Pussetto,Right Winger,24,8000000,Italy,Serie A,Udinese Calcio,England,Premier League,Watford FC,8000000,2019
+452,Walace,Defensive Midfield,24,8000000,Germany,2. Bundesliga,Hannover 96,Italy,Serie A,Udinese Calcio,6000000,2019
+453,Victor Moses,Right Midfield,29,8000000,England,Premier League,Chelsea FC,Italy,Serie A,Inter Milan,216k,2019
+454,Badou Ndiaye,Central Midfield,29,8000000,England,Championship,Stoke City,Turkey,Süper Lig,Trabzonspor,176k,2019
+455,Ramires,Central Midfield,32,8000000,China,Super League,Jiangsu Suning,Brazil,Série A,Sociedade Esportiva Palmeiras,free transfer,2019
+456,Riccardo Saponara,Attacking Midfield,27,8000000,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Genoa CFC,loan transfer,2019
+457,Yannick Cotter,Left Winger,18,250k,Switzerland,Promotion League,FC Sion U21,Italy,Primavera 1,Juventus Primavera,8000000,2019
+458,Sebastiaan Bornauw,Centre-Back,20,4000000,Belgium,Jupiler Pro League,RSC Anderlecht,Germany,Bundesliga,1. FC Köln,8000000,2019
+459,Krystian Bielik,Defensive Midfield,21,2000000,England,Premier League,Arsenal FC,England,Championship,Derby County,8000000,2019
+460,Alejandro Marqués,Centre-Forward,19,300k,Spain,2ª B - Grupo III,FC Barcelona B,Italy,Serie C-A,Juventus U23,8000000,2019
+461,Matías Pellegrini,Left Winger,19,1000000,Argentina,Superliga,Club Estudiantes de La Plata,United States,Without League,Inter Miami CF,8000000,2019
+462,David Okereke,Centre-Forward,21,6000000,Italy,Serie B,Spezia Calcio,Belgium,Jupiler Pro League,Club Brugge KV,8000000,2019
+463,Luan Cândido,Left-Back,18,4000000,Brazil,Série A,Sociedade Esportiva Palmeiras,Germany,Bundesliga,RB Leipzig,8000000,2019
+464,Nicola Sansone,Left Winger,27,7000000,Spain,LaLiga,Villarreal CF,Italy,Serie A,Bologna FC 1909,8000000,2019
+465,Roberto Soriano,Attacking Midfield,28,7000000,Spain,LaLiga,Villarreal CF,Italy,Serie A,Bologna FC 1909,8000000,2019
+466,Juanmi,Left Winger,26,8000000,Spain,LaLiga,Real Sociedad,Spain,LaLiga,Real Betis Balompié,8000000,2019
+467,Jean Lucas,Central Midfield,21,1000000,Brazil,Série A,CR Flamengo,France,Ligue 1,Olympique Lyon,8000000,2019
+468,Christopher Jullien,Centre-Back,26,6000000,France,Ligue 1,FC Toulouse,Scotland,Premiership,Celtic FC,8000000,2019
+469,Joseph Aidoo,Centre-Back,23,4000000,Belgium,Jupiler Pro League,KRC Genk,Spain,LaLiga,Celta de Vigo,8000000,2019
+470,Björn Engels,Centre-Back,24,6000000,France,Ligue 1,Stade Reims,England,Premier League,Aston Villa,8000000,2019
+471,Ivan Sunjic,Defensive Midfield,22,3000000,Croatia,SuperSport HNL,GNK Dinamo Zagreb,England,Championship,Birmingham City,8000000,2019
+472,Wesley Saïd,Centre-Forward,24,6000000,France,Ligue 1,Dijon FCO,France,Ligue 1,FC Toulouse,8000000,2019
+473,Han-Noah Massengo,Central Midfield,18,2000000,Monaco,National 2 - Grp. D,AS Monaco B,England,Championship,Bristol City,8000000,2019
+474,Ruben Aguilar,Right-Back,26,8000000,France,Ligue 1,Montpellier HSC,Monaco,Ligue 1,AS Monaco,8000000,2019
+475,St. Juste,Centre-Back,22,7000000,Netherlands,Eredivisie,Feyenoord Rotterdam,Germany,Bundesliga,1.FSV Mainz 05,8000000,2019
+476,Silas,Right Winger,20,3000000,France,Ligue 2,Paris FC,Germany,2. Bundesliga,VfB Stuttgart,8000000,2019
+477,Ramy Bensebaini,Left-Back,24,8000000,France,Ligue 1,Stade Rennais FC,Germany,Bundesliga,Borussia Mönchengladbach,8000000,2019
+478,Michaël Cuisance,Central Midfield,20,5000000,Germany,Bundesliga,Borussia Mönchengladbach,Germany,Bundesliga,Bayern Munich,8000000,2019
+479,Vyacheslav Karavaev,Right-Back,24,3000000,Netherlands,Eredivisie,Vitesse Arnhem,Russia,Premier Liga,Zenit St. Petersburg,8000000,2019
+480,Ludovic Blas,Attacking Midfield,21,5000000,France,Ligue 2,EA Guingamp,France,Ligue 1,FC Nantes,8000000,2019
+481,Pablo Marí,Centre-Back,26,1000000,Brazil,Série A,CR Flamengo,England,Premier League,Arsenal FC,8000000,2019
+482,Erick Cabaco,Centre-Back,24,2000000,Spain,LaLiga,Levante UD,Spain,LaLiga,Getafe CF,8000000,2019
+483,Edimilson Fernandes,Central Midfield,23,8000000,England,Premier League,West Ham United,Germany,Bundesliga,1.FSV Mainz 05,7000000,2019
+484,Simon Mignolet,Goalkeeper,31,8000000,England,Premier League,Liverpool FC,Belgium,Jupiler Pro League,Club Brugge KV,7000000,2019
+485,Michel Vlap,Attacking Midfield,22,8000000,Netherlands,Eredivisie,SC Heerenveen,Belgium,Jupiler Pro League,RSC Anderlecht,6000000,2019
+486,Niclas Füllkrug,Centre-Forward,26,8000000,Germany,2. Bundesliga,Hannover 96,Germany,Bundesliga,SV Werder Bremen,6000000,2019
+487,Andreas Skov Olsen,Right Midfield,19,8000000,Denmark,Superligaen Championship round,FC Nordsjaelland,Italy,Serie A,Bologna FC 1909,6000000,2019
+488,Valentin Rosier,Right-Back,22,8000000,France,Ligue 1,Dijon FCO,Portugal,Liga NOS,Sporting CP,5000000,2019
+489,Martin Braithwaite,Centre-Forward,28,8000000,England,Championship,Middlesbrough FC,Spain,LaLiga,CD Leganés,5000000,2019
+490,Laurent Koscielny,Centre-Back,33,8000000,England,Premier League,Arsenal FC,France,Ligue 1,FC Girondins Bordeaux,5000000,2019
+491,Luan,Attacking Midfield,26,8000000,Brazil,Série A,Grêmio Foot-Ball Porto Alegrense,Brazil,Série A,Sport Club Corinthians Paulista,5000000,2019
+492,Alexander Djiku,Centre-Back,24,8000000,France,Ligue 2,SM Caen,France,Ligue 1,RC Strasbourg Alsace,4000000,2019
+493,Anthony Knockaert,Right Winger,27,8000000,England,Premier League,Brighton & Hove Albion,England,Championship,Fulham FC,4000000,2019
+494,Charlie Austin,Centre-Forward,30,8000000,England,Premier League,Southampton FC,England,Championship,West Bromwich Albion,4000000,2019
+495,Kevin Danso,Centre-Back,20,8000000,Germany,Bundesliga,FC Augsburg,England,Premier League,Southampton FC,4000000,2019
+496,Paulo Díaz,Centre-Back,24,8000000,Saudi Arabia,Saudi Pro League,Al-Ahli Saudi FC,Argentina,Superliga,CA River Plate,3000000,2019
+497,Jordan Ayew,Centre-Forward,27,8000000,Wales,Championship,Swansea City,England,Premier League,Crystal Palace,2000000,2019
+498,Gianluca Caprari,Second Striker,26,8000000,Italy,Serie A,UC Sampdoria,Italy,Serie A,Parma Calcio 1913,2000000,2019
+499,Marius Wolf,Right-Back,24,8000000,Germany,Bundesliga,Borussia Dortmund,Germany,Bundesliga,Hertha BSC,2000000,2019
+500,Khouma Babacar,Centre-Forward,26,8000000,Italy,Serie A,US Sassuolo,Italy,Serie A,US Lecce,1000000,2019
+501,Jeison Murillo,Centre-Back,27,8000000,Italy,Serie A,UC Sampdoria,Spain,LaLiga,Celta de Vigo,1000000,2019
+502,Emiliano Rigoni,Right Winger,26,8000000,Russia,Premier Liga,Zenit St. Petersburg,Italy,Serie A,UC Sampdoria,500k,2019
+503,Nacho Monreal,Left-Back,33,8000000,England,Premier League,Arsenal FC,Spain,LaLiga,Real Sociedad,250k,2019
+504,Gary Cahill,Centre-Back,33,8000000,England,Premier League,Chelsea FC,England,Premier League,Crystal Palace,free transfer,2019
+505,Vincent Kompany,Centre-Back,33,8000000,England,Premier League,Manchester City,Belgium,Jupiler Pro League,RSC Anderlecht,free transfer,2019
+506,Andy Carroll,Centre-Forward,30,8000000,England,Premier League,West Ham United,England,Premier League,Newcastle United,free transfer,2019
+507,Álvaro González,Centre-Back,29,8000000,Spain,LaLiga,Villarreal CF,France,Ligue 1,Olympique Marseille,loan transfer,2019
+508,Eddie Nketiah,Centre-Forward,20,8000000,England,Premier League,Arsenal FC,England,Championship,Leeds United,loan transfer,2019
+509,Benik Afobe,Centre-Forward,26,8000000,England,Championship,Stoke City,England,Championship,Bristol City,loan transfer,2019
+510,Danny Drinkwater,Central Midfield,29,8000000,England,Premier League,Chelsea FC,England,Premier League,Burnley FC,loan transfer,2019
+511,Nacer Chadli,Left Winger,30,8000000,Monaco,Ligue 1,AS Monaco,Belgium,Jupiler Pro League,RSC Anderlecht,loan transfer,2019
+512,Fraser Forster,Goalkeeper,31,8000000,England,Premier League,Southampton FC,Scotland,Premiership,Celtic FC,loan transfer,2019
+513,Mohamed Elneny,Defensive Midfield,27,8000000,England,Premier League,Arsenal FC,Turkey,Süper Lig,Besiktas JK,loan transfer,2019
+514,Simon Kjaer,Centre-Back,30,8000000,Spain,LaLiga,Sevilla FC,Italy,Serie A,Atalanta BC,loan transfer,2019
+515,Rachid Ghezzal,Right Winger,27,8000000,England,Premier League,Leicester City,Italy,Serie A,ACF Fiorentina,loan transfer,2019
+516,Strahinja Pavlovic,Centre-Back,18,8000000,Monaco,Ligue 1,AS Monaco,Serbia,Super liga,FK Partizan Belgrade,loan transfer,2019
+517,Jeroen Zoet,Goalkeeper,29,8000000,Netherlands,Eredivisie,PSV Eindhoven,Netherlands,Eredivisie,FC Utrecht,loan transfer,2019
+518,Adama Diakhaby,Left Winger,23,8000000,England,Championship,Huddersfield Town,England,Championship,Nottingham Forest,loan transfer,2019
+519,Callum Robinson,Centre-Forward,24,4000000,England,Championship,Preston North End,England,Premier League,Sheffield United,7000000,2019
+520,Francesco Caputo,Centre-Forward,31,4000000,Italy,Serie B,Empoli FC ,Italy,Serie A,US Sassuolo,7000000,2019
+521,Agustín Marchesín,Goalkeeper,31,4000000,Mexico,Liga MX Clausura,CF América,Portugal,Liga NOS,FC Porto,7000000,2019
+522,Morato,Centre-Back,18,50k,Brazil,Série A,São Paulo Futebol Clube,Portugal,LigaPro,SL Benfica B,7000000,2019
+523,Mamadou Loum,Defensive Midfield,22,5000000,Portugal,Liga NOS,SC Braga,Portugal,Liga NOS,FC Porto,7000000,2019
+524,Pedro Obiang,Central Midfield,27,7000000,England,Premier League,West Ham United,Italy,Serie A,US Sassuolo,7000000,2019
+525,Tomas Koubek,Goalkeeper,26,6000000,France,Ligue 1,Stade Rennais FC,Germany,Bundesliga,FC Augsburg,7000000,2019
+526,George Puscas,Centre-Forward,23,3000000,Italy,Serie A,Inter Milan,England,Championship,Reading FC,7000000,2019
+527,Javi Ontiveros,Left Winger,21,6000000,Spain,LaLiga SmartBank,Málaga CF,Spain,LaLiga,Villarreal CF,7000000,2019
+528,Michael,Left Winger,23,2000000,Brazil,Série A,Goiás Esporte Clube,Brazil,Série A,CR Flamengo,7000000,2019
+529,Ivan Ignatjev,Centre-Forward,20,7000000,Russia,Premier Liga,FK Krasnodar,Russia,Premier Liga,Rubin Kazan,7000000,2019
+530,Dawid Kownacki,Centre-Forward,22,7000000,Italy,Serie A,UC Sampdoria,Germany,Bundesliga,Fortuna Düsseldorf,6000000,2019
+531,Vitor Hugo,Centre-Back,28,7000000,Italy,Serie A,ACF Fiorentina,Brazil,Série A,Sociedade Esportiva Palmeiras,5000000,2019
+532,Christian Luyindama,Centre-Back,25,7000000,Belgium,Jupiler Pro League,Standard Liège,Turkey,Süper Lig,Galatasaray,5000000,2019
+533,Gil,Centre-Back,32,7000000,China,Super League,Shandong Luneng Taishan,Brazil,Série A,Sport Club Corinthians Paulista,free transfer,2019
+534,Garry Rodrigues,Left Winger,28,7000000,Saudi Arabia,Saudi Pro League,Al-Ittihad Club (Jeddah),Turkey,Süper Lig,Fenerbahce,loan transfer,2019
+535,Tin Jedvaj,Centre-Back,23,7000000,Germany,Bundesliga,Bayer 04 Leverkusen,Germany,Bundesliga,FC Augsburg,loan transfer,2019
+536,Robin Olsen,Goalkeeper,29,7000000,Italy,Serie A,AS Roma,Italy,Serie A,Cagliari Calcio,loan transfer,2019
+537,Guido Carrillo,Centre-Forward,28,7000000,England,Premier League,Southampton FC,Spain,LaLiga,CD Leganés,loan transfer,2019
+538,Marko Pjaca,Left Winger,24,7000000,Italy,Serie A,Juventus FC,Belgium,Jupiler Pro League,RSC Anderlecht,loan transfer,2019
+539,Roger Assalé,Centre-Forward,26,7000000,Switzerland,Super League,BSC Young Boys,Spain,LaLiga,CD Leganés,loan transfer,2019
+540,Moussa Wagué,Right-Back,21,7000000,Spain,LaLiga,FC Barcelona,France,Ligue 1,OGC Nice,loan transfer,2019
+541,Gustavo Cuéllar,Defensive Midfield,26,3000000,Brazil,Série A,CR Flamengo,Saudi Arabia,Saudi Pro League,Al-Hilal Saudi FC,7000000,2019
+542,Lucas Zelarayán,Attacking Midfield,27,4000000,Mexico,Liga MX Clausura,Tigres UANL,United States,MLS,Columbus Crew SC,7000000,2019
+543,Luis Díaz,Left Winger,22,2000000,Colombia,Liga DIMAYOR II,Junior FC,Portugal,Liga NOS,FC Porto,7000000,2019
+544,Ryan Kent,Left Winger,22,1000000,England,Premier League,Liverpool FC,Scotland,Premiership,Rangers FC,7000000,2019
+545,Jesús Angulo,Attacking Midfield,22,1000000,Mexico,Liga MX Clausura,Club Necaxa,Mexico,Liga MX Clausura,Deportivo Guadalajara,7000000,2019
+546,Cristian Calderón,Left-Back,22,2000000,Mexico,Liga MX Clausura,Club Necaxa,Mexico,Liga MX Clausura,Deportivo Guadalajara,7000000,2019
+547,Aké Loba,Centre-Forward,21,1000000,Peru,Liga 1 Clausura,Universidad San Martín de Porres,Mexico,Liga MX Clausura,CF Monterrey,7000000,2019
+548,Gabriel Martinelli,Left Winger,18,-,Brazil,Without League,Ituano Futebol Clube (SP),England,Premier League,Arsenal FC,7000000,2019
+549,Andrea Favilli,Centre-Forward,22,6000000,Italy,Serie A,Juventus FC,Italy,Serie A,Genoa CFC,7000000,2019
+550,Lisandro Martínez,Centre-Back,21,6000000,Argentina,Superliga,Defensa y Justicia,Netherlands,Eredivisie,Ajax Amsterdam,7000000,2019
+551,Eduard Löwen,Central Midfield,22,7000000,Germany,2. Bundesliga,1.FC Nuremberg,Germany,Bundesliga,Hertha BSC,7000000,2019
+552,Théo Bongonda,Right Winger,23,6000000,Belgium,Jupiler Pro League,SV Zulte Waregem,Belgium,Jupiler Pro League,KRC Genk,7000000,2019
+553,Alessandro Russo,Goalkeeper,18,-,Italy,Serie A,Genoa CFC,Italy,Serie A,US Sassuolo,7000000,2019
+554,Marcos Senesi,Centre-Back,22,7000000,Argentina,Superliga,CA San Lorenzo de Almagro,Netherlands,Eredivisie,Feyenoord Rotterdam,7000000,2019
+555,Kwang-song Han,Centre-Forward,21,3000000,Italy,Serie C-A,Juventus U23,Qatar,Stars League,Al-Duhail SC,7000000,2019
+556,Léo Pereira,Centre-Back,23,2000000,Brazil,Série A,Club Athletico Paranaense,Brazil,Série A,CR Flamengo,7000000,2019
+557,Radoslaw Majecki,Goalkeeper,20,5000000,Poland,Ekstraklasa,Legia Warszawa,Monaco,Ligue 1,AS Monaco,7000000,2019
+558,Matheus Fernandes,Defensive Midfield,21,3000000,Brazil,Série A,Sociedade Esportiva Palmeiras,Spain,LaLiga,FC Barcelona,7000000,2019
+559,Landry Dimata,Centre-Forward,21,7000000,Germany,Bundesliga,VfL Wolfsburg,Belgium,Jupiler Pro League,RSC Anderlecht,5000000,2019
+560,Naïm Sliti,Left Winger,27,7000000,France,Ligue 1,Dijon FCO,Saudi Arabia,Saudi Pro League,Ettifaq FC,5000000,2019
+561,Aden Flint,Centre-Back,30,7000000,England,Championship,Middlesbrough FC,Wales,Championship,Cardiff City,4000000,2019
+562,Alexis Saelemaekers,Right Winger,20,7000000,Belgium,Jupiler Pro League,RSC Anderlecht,Italy,Serie A,AC Milan,3000000,2019
+563,Víctor Ruiz,Centre-Back,30,7000000,Spain,LaLiga,Villarreal CF,Turkey,Süper Lig,Besiktas JK,2000000,2019
+564,Rodrigo Becão,Centre-Back,23,7000000,Brazil,Série A,Esporte Clube Bahia,Italy,Serie A,Udinese Calcio,1000000,2019
+565,Kevin-Prince Boateng,Attacking Midfield,32,7000000,Italy,Serie A,US Sassuolo,Italy,Serie A,ACF Fiorentina,1000000,2019
+566,Konstantinos Mitroglou,Centre-Forward,31,7000000,Turkey,Süper Lig,Galatasaray,Netherlands,Eredivisie,PSV Eindhoven,1000000,2019
+567,Leonardo Bittencourt,Attacking Midfield,25,7000000,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,SV Werder Bremen,600k,2019
+568,Pape Cheikh,Central Midfield,22,7000000,France,Ligue 1,Olympique Lyon,Spain,LaLiga,Celta de Vigo,500k,2019
+569,Michael Gregoritsch,Centre-Forward,25,7000000,Germany,Bundesliga,FC Augsburg,Germany,Bundesliga,FC Schalke 04,500k,2019
+570,Mauricio Pereyra,Attacking Midfield,29,7000000,Russia,Premier Liga,FK Krasnodar,United States,MLS,Orlando City SC,free transfer,2019
+571,Antonio Barreca,Left-Back,24,7000000,Monaco,Ligue 1,AS Monaco,Italy,Serie A,Genoa CFC,loan transfer,2019
+572,Jean-Eudes Aholou,Defensive Midfield,25,7000000,Monaco,Ligue 1,AS Monaco,France,Ligue 1,AS Saint-Étienne,loan transfer,2019
+573,Harry Arter,Central Midfield,29,7000000,England,Premier League,AFC Bournemouth,England,Championship,Fulham FC,loan transfer,2019
+574,Ibrahim Amadou,Defensive Midfield,26,7000000,Spain,LaLiga,Sevilla FC,England,Premier League,Norwich City,loan transfer,2019
+575,Jean-Eudes Aholou,Defensive Midfield,25,7000000,Monaco,Ligue 1,AS Monaco,France,Ligue 1,AS Saint-Étienne,loan transfer,2019
+576,Harry Arter,Central Midfield,29,7000000,England,Premier League,AFC Bournemouth,England,Championship,Fulham FC,loan transfer,2019
+577,Callum Robinson,Centre-Forward,24,7000000,England,Premier League,Sheffield United,England,Championship,West Bromwich Albion,loan transfer,2019
+578,Ibrahim Amadou,Defensive Midfield,26,7000000,Spain,LaLiga,Sevilla FC,England,Premier League,Norwich City,loan transfer,2019
+579,Ibrahim Amadou,Defensive Midfield,26,7000000,Spain,LaLiga,Sevilla FC,Spain,LaLiga,CD Leganés,loan transfer,2019
+580,Roque Mesa,Central Midfield,30,7000000,Spain,LaLiga,Sevilla FC,Spain,LaLiga,CD Leganés,loan transfer,2019
+581,Isaac Mbenza,Right Winger,23,7000000,England,Championship,Huddersfield Town,France,Ligue 1,Amiens SC,loan transfer,2019
+582,Florent Hadergjonaj,Right-Back,25,7000000,England,Championship,Huddersfield Town,Turkey,Süper Lig,Kasimpasa,loan transfer,2019
+583,Asmir Begovic,Goalkeeper,32,7000000,England,Premier League,AFC Bournemouth,Azerbaijan,Premyer Liqa,Qarabağ FK,loan transfer,2019
+584,Mauricio Pereyra,Attacking Midfield,29,7000000,Russia,Premier Liga,FK Krasnodar,United States,MLS,Orlando City SC,free transfer,2019
+585,Zack Steffen,Goalkeeper,24,5000000,United States,MLS,Columbus Crew SC,England,Premier League,Manchester City,6000000,2019
+586,James Justin,Right-Back,21,-,England,Championship,Luton Town,England,Premier League,Leicester City,6000000,2019
+587,Sam Gallagher,Centre-Forward,23,3000000,England,Premier League,Southampton FC,England,Championship,Blackburn Rovers,6000000,2019
+588,Iago,Left-Back,22,2000000,Brazil,Série A,Sport Club Internacional,Germany,Bundesliga,FC Augsburg,6000000,2019
+589,Domagoj Bradaric,Left-Back,19,1000000,Croatia,SuperSport HNL,HNK Hajduk Split,France,Ligue 1,LOSC Lille,6000000,2019
+590,Bryan Mbeumo,Right Winger,19,3000000,France,Ligue 2,ESTAC Troyes,England,Championship,Brentford FC,6000000,2019
+591,Lucas Lima,Left-Back,27,6000000,France,Ligue 1,FC Nantes,Saudi Arabia,Saudi Pro League,Al-Ahli Saudi FC,6000000,2019
+592,Patrik Hrosovsky,Central Midfield,27,6000000,Czech Republic,Fortuna Liga Champ. Gr.,FC Viktoria Plzen,Belgium,Jupiler Pro League,KRC Genk,5000000,2019
+593,Yevgen Konoplyanka,Attacking Midfield,29,6000000,Germany,Bundesliga,FC Schalke 04,Ukraine,Premier Liga,Shakhtar Donetsk,1000000,2019
+594,Simon Kjaer,Centre-Back,30,6000000,Spain,LaLiga,Sevilla FC,Italy,Serie A,AC Milan,loan transfer,2019
+595,Nemanja Gudelj,Defensive Midfield,27,6000000,China,Super League,Guangzhou Evergrande Taobao,Spain,LaLiga,Sevilla FC,free transfer,2019
+596,Wallace,Centre-Back,24,6000000,Italy,Serie A,SS Lazio,Portugal,Liga NOS,SC Braga,loan transfer,2019
+597,Gustavo Bou,Centre-Forward,29,3000000,Mexico,Liga MX Clausura,Club Tijuana,United States,MLS,New England Revolution,6000000,2019
+598,Richard Sánchez,Central Midfield,23,2000000,Paraguay,Primera División Clausura,Olimpia Asunción,Mexico,Liga MX Clausura,CF América,6000000,2019
+599,Matías Viña,Left-Back,22,2000000,Uruguay,Primera División Clausura,Club Nacional,Brazil,Série A,Sociedade Esportiva Palmeiras,6000000,2019
+600,Luis Romo,Defensive Midfield,24,1000000,Mexico,Liga MX Clausura,Querétaro FC,Mexico,Liga MX Clausura,CD Cruz Azul,6000000,2019
+601,Pontus Jansson,Centre-Back,28,6000000,England,Championship,Leeds United,England,Championship,Brentford FC,6000000,2019
+602,Christian Cueva,Attacking Midfield,28,4000000,Russia,Premier Liga,FK Krasnodar,Brazil,Série A,Santos FC,6000000,2019
+603,Lukas Lerager,Central Midfield,25,6000000,France,Ligue 1,FC Girondins Bordeaux,Italy,Serie A,Genoa CFC,6000000,2019
+604,Victorien Angban,Central Midfield,22,1000000,England,Premier League 2,Chelsea FC U23,France,Ligue 1,FC Metz,6000000,2019
+605,Serhou Guirassy,Centre-Forward,23,3000000,Germany,Bundesliga,1. FC Köln,France,Ligue 1,Amiens SC,6000000,2019
+606,Gabriel Brazão,Goalkeeper,18,2000000,Italy,Serie A,Parma Calcio 1913,Italy,Serie A,Inter Milan,6000000,2019
+607,Denis Cheryshev,Left Winger,28,6000000,Spain,LaLiga,Villarreal CF,Spain,LaLiga,Valencia CF,6000000,2019
+608,Craig Dawson,Centre-Back,29,6000000,England,Championship,West Bromwich Albion,England,Premier League,Watford FC,6000000,2019
+609,Sasa Kalajdzic,Centre-Forward,21,2000000,Austria,Bundesliga,FC Admira Wacker Mödling,Germany,2. Bundesliga,VfB Stuttgart,6000000,2019
+610,Stefano Denswil,Centre-Back,26,6000000,Belgium,Jupiler Pro League,Club Brugge KV,Italy,Serie A,Bologna FC 1909,6000000,2019
+611,Enric Gallego,Centre-Forward,32,3000000,Spain,LaLiga SmartBank,SD Huesca,Spain,LaLiga,Getafe CF,6000000,2019
+612,Léo Jardim,Goalkeeper,24,1000000,Portugal,Liga NOS,Rio Ave FC,France,Ligue 1,LOSC Lille,6000000,2019
+613,Clinton N'Jie,Right Winger,25,3000000,France,Ligue 1,Olympique Marseille,Russia,Premier Liga,Dinamo Moscow,6000000,2019
+614,Robert Glatzel,Centre-Forward,25,2000000,Germany,2. Bundesliga,1.FC Heidenheim 1846,Wales,Championship,Cardiff City,6000000,2019
+615,Kemar Roofe,Centre-Forward,26,5000000,England,Championship,Leeds United,Belgium,Jupiler Pro League,RSC Anderlecht,6000000,2019
+616,Paul Onuachu,Centre-Forward,25,6000000,Denmark,Superligaen Championship round,FC Midtjylland,Belgium,Jupiler Pro League,KRC Genk,6000000,2019
+617,Alfred N'Diaye,Defensive Midfield,29,3000000,Spain,LaLiga,Villarreal CF,Saudi Arabia,Saudi Pro League,Al-Shabab Club (Riyadh),6000000,2019
+618,Robert Navarro,Attacking Midfield,17,-,Monaco,Without League,AS Monaco U19,Spain,2ª B - Grupo II,Real Sociedad B,6000000,2019
+619,Raúl Moro,Left Winger,16,-,Spain,Without League,FC Barcelona U18,Italy,Primavera 1,Lazio U19,6000000,2019
+620,Artur,Right Winger,21,2000000,Brazil,Série A,Sociedade Esportiva Palmeiras,Brazil,Série A,Red Bull Bragantino,6000000,2019
+621,Andraz Sporar,Centre-Forward,25,2000000,Slovakia,Fortuna Liga,Slovan Bratislava,Portugal,Liga NOS,Sporting CP,6000000,2019
+622,Michael Krmencik,Centre-Forward,26,3000000,Czech Republic,Fortuna Liga Champ. Gr.,FC Viktoria Plzen,Belgium,Jupiler Pro League,Club Brugge KV,6000000,2019
+623,Rony,Centre-Forward,24,5000000,Brazil,Série A,Club Athletico Paranaense,Brazil,Série A,Sociedade Esportiva Palmeiras,6000000,2019
+624,Sebastian Szymanski,Attacking Midfield,20,6000000,Poland,Ekstraklasa,Legia Warszawa,Russia,Premier Liga,Dinamo Moscow,5000000,2019

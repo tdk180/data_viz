@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The pitch</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="first-page">
+
+        <h1>The Pitch</h1>
+        <img src="/icon/stadium.png" id="stadium">
+
+    </div>
+
+    <div class="second-page">
+        <div class="text-wrapper">
+            <h1>Introduction</h1>
+            <h3>Dataset Scraping</h3>
+            <p>
+              For our project we decided to scrape data of european football transfermarket from the 
+              specialized site called Transfermakt. <br>
+               At first we thought to scrape data about last transfers,
+               but at the end we decided to scrape multiple years in order to perform also time analysis, 
+               taking into consideration the pandemic effect. So, our dataset contains the top 625 transfers 
+               for player market value (assessed by transfermarkt) for years 
+              from 2018 to 2023.
+            </p>
+            
+            <h3>Dataset Description</h3>
+            <p>
+              Here we will give a brief description of the variables of our dataset, with the unit of measurement
+               when necessary: <br>
+              • <b>name</b> : name and surname of the player;<br>
+              •	<b>position</b> : specific position of the player, with 13 possible values: Goalkeeper, Right-Back,
+               Centre-Back, Left-Back, Right Midfield, Central Midfield, Left Midfield, Defensive Midfield,
+                Attacking Midfield, Second Striker, Left Winger, Right Winger, Centre-Forward;<br>
+              •	<b>age</b> : age of the player, measured in years;<br>
+              •	<b>market_value</b> : market value of the player, measured in euros.<br>
+              •	<b>country_from</b> : country of the club which sold the player.<br>
+              •	<b>league_from</b> : league of the club which sold the player.<br>
+              •	<b>club_from</b> : club which sold the player.<br>
+              •	<b>country_to</b> : country of the club which bought the player.<br>
+              •	<b>league_to</b> : league of the club which bought the player.<br>
+              •	<b>club_to</b> : club which bought the player.<br>
+              •	<b>fee</b> : the amount of money payed for each player, measured in euros.<br>
+              •	<b>year</b> : year of the transfer, with 5 possible values: 2018, 2019, 2020, 2021, 2022.<br>
+              •	<b>General_Position</b> : general position of the player, with 4 possible values: Goalkeeper, 
+              Defense, Midfield, Attack.<br>
+            </p> 
+            <h3>Dataset Cleaning and Preprocessing</h3>
+            <p>
+              We create other variables to group leagues different from the top 5 European Leagues
+               (Bundesliga, Serie A, Premier League, LaLiga, Ligue 1) and to group the specific positions
+                that we have into more general and easily understandable ones (goalkeeper, defense, midfield and attack). <br>
+                 Then, for sake of simplicity, we homologate free and loan transfers by considering both of them as zero
+                  fee. <br> The last thing we do is to convert the thousands symbol ('k') into '000' and dealing with very few
+                   missing values by making the fee equal to the market value.
+            </p>
+        </div>
+        <div class="img-wrapper">
+
+          <img src="/icon/ref.png" id="referee">
+          
+        </div>
+        
+
+    </div> 
+    <div class="kickoff">
+
+      <h1>Kick off</h1>
+      
+
+    </div> 
+    <div class="third-page">
+      <div class="stats-wrapper">
+        <div class="stat-wrapper">
+
+          <img src="/icon/player.png">
+          <div class="stats-test-wrapper">
+            <h3>2k</h3>
+            <p>Players Traded</p>
+          </div>
+
+        </div>
+
+        <div class="stat-wrapper">
+
+          <img src="/icon/country.png">
+          <div class="stats-test-wrapper">
+            <h3>50</h3>
+            <p>Country Involved</p>
+          </div>
+
+        </div>
+
+        <div class="stat-wrapper">
+
+          <img src="/icon/money.png">
+          <div class="stats-test-wrapper">
+            <h3>27B</h3>
+            <p>Euros spent</p>
+          </div>
+
+        </div>
+        
+        <div class="stat-wrapper">
+
+            <img src="/icon/transfermarket.png">
+            <div class="stats-test-wrapper">
+              <h3>5</h3>
+              <p>Transfermaket sessions</p>
+            </div>
+  
+        </div>
+  
+        <div class="stat-wrapper">
+  
+            <img src="/icon/club.png">
+            <div class="stats-test-wrapper">
+              <h3>400</h3>
+              <p>Club Involved</p>
+            </div>
+  
+        </div>
+  
+        <div class="stat-wrapper">
+  
+            <img src="/icon/market.png">
+            <div class="stats-test-wrapper">
+              <h3>31B</h3>
+              <p>Market Value</p>
+            </div>
+
+        </div>
+      </div>
+    </div> 
+
+    <div class="fourth-page">
+
+      <div class="plot-wrapper">
+
+        <div class="plot1">
+          <center><iframe src="plot/expenses_barchart.html"></iframe></center>
+        </div>
+        
+
+
+        <div class="plot2">
+          <center><iframe src="/plot/revenues_barchart.html" ></iframe></center>
+        </div>
+
+    </div>
+
+      <div class="test-wrapper">
+        <h3>Balancing Expenses and Revenues</h3>
+        <p> 
+          The first thing we want to know is how much each different league has spent and earned from the transfermaket.
+           As previously mentioned, our focus will be on the 5 best leagues in the world, which, as it is possible to see
+            also on the graphs, are the following: <br><br>
+          1)	Premier League - England <br>
+          2)	Serie A - Italy <br>
+          3)	LaLiga - Spain <br>
+          4)	Ligue 1 - France <br>
+          5)	Bundesliga - Germany <br>
+          6)	Others - All the other leagues/country of the world <br><br>
+          As it is possible to see from the 'Expenses' graph on the left, Premier League dominates under the point 
+          of view of the investment made, totalizing more than twice the money spent of the second league, Serie A. 
+          Furthermore, it is also interesting to notice that the investment made by 'Others' come only in third position,
+           highlighting how Football is a core cultural aspect of European countries.
+          However, it is also interesting to notice that 'Others' appears in first position in the 'Revenues' graph,
+           implying that football is diffused also abroad these countries and that is only in Europe that clubs are 
+           willing to invest such amount of money. <br> 
+          
+          From these graph the insights that we can infer on each league are the following: <br> 
+          • Since Serie A is second in both graph, with almost the same amount of money spent and earned, we might say that it is the <b>most balanced </b>
+          league; <br>
+          • Premier League is clearly the <b>richest</b> league, but clearly its richness derives from external factors from the just tranfermarket because the investment are twice the earnings; <br>
+          • Others is the opposite of Premier League, so probably they can be considered as 'vivai' where players are bought at low price and then sold with a markup when they make an exploit; <br>
+          • Lastly, it is possible to infer that LaLiga, Ligue 1, and Bundesliga are also well balanced, they just have a <b>lower involvement</b>.</p>
+      </div>
+
+    </div>
+
+    <div class="fifth-page">
+      <div class='plot-wrapper'>
+
+        <div class="plot1">
+          <center><img src="/plot/raph3.svg"/> </center>
+        </div>
+
+        <div class="test-wrapper">
+          <p>Since we now have a rough understanding of the big picture regarding the leagues, we want to dig deeper and discover insights inside each league, studying therefore the
+            clubs. In this visualization we show through a double bar chart the investments and the earnings of the 20 clubs with higher spending. <br>
+            
+            According to the insights previously inferred we would expect a majority of clubs belonging to the Premier League, then some of Serie A, and the remaining more or less 
+            equally distributed among the other leagues. Furthermore, we would expect the Premier League clubs to have a strongly negative balance, while for the others a more 
+            balanced one. Lastly, we do not expect any 'Others' club, since it was pretty evident from the data that this category does not invest a lot. <br>
+            
+            As we can see all the assumptions are met: the first thing that we notice is the presence of as many as 9 Premier League teams, with Chelsea in first position for more, confirming the supremacy of Premier League for richness. Then, as expected, in second position there is Seria A with 4 teams; then, LaLiga with 3 teams, Ligue 1 with 2 teams, Bundesliga with only the last one, and zero for Others.
+            Let us analyze the two important takeaway from this graph: <br>
+            1) Premier league richness is not extended only to a niche of clubs but is <b>vastly spread</b> among several clubs, while in the other leagues the richness seems concentrated 
+            in the hands of few. The scariest part is that clubs such as Aston Villa or West Ham have never been in the first 4 places of the league, but they can afford to spend more
+             than Inter and AC Milan, that won last two Seria A championships. <br>
+            
+            2) It is furtherly highlighted that, while Serie A, Bundesliga, Ligue 1 and LaLiga have a balanced incoming and outgoing market, the Premier League is heavily in 
+            negative. <br>
+          </p>
+        </div>
+
+    </div>
+    
+    <div class='plot-wrapper'>
+
+      <div class="test-wrapper">
+        <h3>Titolo</h3>
+        <p>Lastly, in the following visualization, there will be a Sankey Diagram, a flow chart, showing on the right the 30 most expensive players in our dataset ordered from top to bottom in ascending order,
+          and on the left the league that bought each player. As it is possible to deduct from the graph, also in this case, the insights that we can infer from the chart are consistent with the ones
+           made so far. The Premier League accounts for 16/30 players, confirming the incredible richness of this league. Then, in second and third position even there are Serie A and LaLiga 
+          at 6. Lastly, again with an even number of players come Bundesliga and Ligue 1, both with 1. <br>
+          Regarding this last notion, it is rather curious noticing that even if Ligue 1 has only one player in the list of the top 30, Kylian Mpappè,
+          he is the most paid one in all the years from 2018 to 2022.</p>
+      </div>
+
+      <div class="plot2">
+        <center><img src="/plot/raph4.svg" height="482" width="677"></iframe></center>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="sixth-page">
+    <div class="title-wrapper">
+      <h1>Second Half</h1>
+    </div>
+
+    <iframe src="https://linking-and-brushing-xruh.onrender.com" height="475" width="1423"></iframe>
+    <div class="test-wrapper">
+      <h3>Pandemic Effect</h3>
+      <p> 
+        In order to get covid drawbacks on the european market we decided to investigate two aspects: the first one is quite intuitive, and it consists in looking at the total expenditures for league during the years;
+        the second, instead, regards the zero fee transfers. The pandemic had huge consequences in terms of revenues. The main one was probably the impossibility of earning from match tickets.
+        Less resources imply the necessity to be 'creative' and to buy player at zero or with different formulas (i.e., loan). <br> <br>
+
+        As can be seen in the stacked barchart, it is evident that, while 2018 and 2019 saw a growth in the leagues' investment in the purchase of players, 2020 saw a major drop caused undoubtedly 
+        by the COVID pandemic, which also affected the market in the following two years.
+        However, it is interesting to note that, although all other leagues have seen a significant decrease in transfer investment, the Premier League's has remained constant, highlighting the 
+        robustness of this league's business model.
+        Having visualized this data, we thought it would be interesting to also visualise what has happened to players signed on a zero-parameter basis. <br>
+        To do it we have implemented a dashboard featuring 2 different connected charts: a stacked bar chart representing the amount of money spent by year by each league, and a pie chart showing
+         the ratio between players with a positive fee and the ones taken at zero. The two graphs are connected through linking and brushing and selecting a bar of the barchart the pie chart will
+          automatically show the ratio of the year of the bar selected.
+        The results are consistent with the hypothesis. In fact, due to the reduced possibility to invest for most leagues, the number of players signed for zero, or similar (loan, etc.), becomes 
+        almost double in the year of covid, and decreases in the following two years, very likely starting to redirect towards the pre-covid average.</p>
+    </div>
+
+  </div>
+
+  <div class="seventh-page">
+    <h1>Overtime</h1>
+
+    <div class="plot-wrapper1">
+      <div class="plot5">
+        <center><iframe src="/plot/raph5.html" height="482" width="800"></iframe></center>
+      </div>
+
+      <div class="test-wrapper">
+        <h3>Premier League World Map</h3>
+        <p>
+          In the next part we wanted to deepen our study through network analyses and map visualizations. Since doing it with all the leagues would not generate a clear graph due to the huge number 
+          of nodes, we decided to investigate only the most interesting league, the Premier League.
+          The first visualization is a cloropleth map, which through colors manages to clearly show from where the clubs of Premier League buy their players. The color gradient is associated,
+          in fact, to the number of players that Premier League bought from each of the colored countries. The grey ones did not sell any players to Premier Leagues during the time frame 2018 to 2022.
+          We thought also about doing a flow map instead of this, however it would have been less understandable how many transfers would have been from the Premier League towards the Premier League. 
+          Through cloropleth graph this instead is very clear.
+          <br><br>
+          As it is possible to see, that for the most part all the transfers are from within Europe, with a peak in the same Great Britain.
+           One last thing to notice, it is that immediately after the european countries, the next most important supplier of players is Brazil, which since is a country where football is hugely 
+           popular is coherent with our analysis.</p>
+      </div>
+    </div>
+  
+
+    <div class="plot-wrapper1">
+
+      <div class="plot5">
+        <center>    <iframe src="https://network-dashboard.onrender.com" ></iframe>        </center>
+      </div>
+      <div class="test-wrapper">
+        <h3>Premier League Network</h3>
+        <p>
+          Our last dashboard will feature the 100 players with highest market value which had as destination a club of Premier League. Furthermore, it will be conducted also an analysis of cluster 
+          detection through the deployment of community Louvain algorithm. Through these visualizations we keep deepening our investigation within the richest League in the world trying
+           to gather new insights.
+          The graph we will visualize highlights the direct relationship between the clubs of the Premier League who bought the players and the club who sold the player, which might be both from abroad 
+          England or from England as well. 
+          The dashboard provides a double drop-down menu with the following features:
+          1)	The first drop-down menu allows the user to choose to visualize the color of the nodes according to the league of belonging or by the color of the associated community Louvain cluster.
+          2)	The second drop-down menu allows the user to visualize the nodes through different layouts: circle, cose-bilkent, and concentric. In this way it is possible to have different point of views on the same relations.<p>
+      </div>
+      
+    </div>
+  </div>
+
+  </body>
+
+  
+
+
+</html>
+
