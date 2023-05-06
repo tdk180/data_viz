@@ -13,7 +13,8 @@ The sections can be summarised as follow:
 - Interactive Graph Visualization - Cytoscape
 
 Instructions and information about the files uploaded:
-The files that are needed to correctly visualize the project are the following:
+All the files that are needed to correctly visualize the project are contained in the folder called 'Final Folder'.
+In the folder there are the following files:
 - Scraping code --> it contains all the code to scrape the data from Transfermarkt.com
 
 - Datasets:
