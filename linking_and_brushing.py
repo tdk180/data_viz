@@ -50,13 +50,14 @@ def graph_update(selectedData):
     Input(component_id='bar_plot', component_property='selectedData'))
 
 def update_side_graph(hov_data, clk_data, slct_data):
-    
+    colors=['green', 'red']
+
     if clk_data is None:
-        fig_pie=px.pie(values=[760,2974], names=['zero', 'non-zero'], title='Percentage of zero transfers', 
-                       color_discrete_map = 'viridis')
+        fig_pie=px.pie(values=[760,2974], names=['zero', 'non-zero'], title='Percentage of zero transfers')
 
         fig_pie.update_traces(hoverinfo = 'label+percent', textfont_size = 20,
-                  textinfo = 'label+percent', pull = [0.1, 0, 0.2, 0, 0, 0])
+                  textinfo = 'label+percent', pull = [0.1, 0, 0.2, 0, 0, 0],
+                             marker=dict(colors=colors))
 
         return fig_pie
     
@@ -71,11 +72,11 @@ def update_side_graph(hov_data, clk_data, slct_data):
         tot=len(df2)
         zero=len(df2[df2['fee']==0])
         
-        fig_pie=px.pie(values=[zero,tot-zero], names=['zero', 'non-zero'], title=f'Percentage of zero transfers in {year}', 
-                       color_discrete_map = 'viridis')
+        fig_pie=px.pie(values=[zero,tot-zero], names=['zero', 'non-zero'], title=f'Percentage of zero transfers in {year}')
 
         fig_pie.update_traces(hoverinfo = 'label+percent', textfont_size = 20,
-                  textinfo = 'label+percent', pull = [0.1, 0, 0.2, 0, 0, 0])
+                  textinfo = 'label+percent', pull = [0.1, 0, 0.2, 0, 0, 0],
+                             marker=dict(colors=colors))
 
 
         return fig_pie
