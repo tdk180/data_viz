@@ -15,6 +15,7 @@ The sections can be summarised as follow:
 Instructions and information about the files uploaded:
 The files that are needed to correctly visualize the project are the following:
 - Scraping code --> it contains all the code to scrape the data from Transfermarkt.com
+
 - Datasets:
   - transfer_window2018
   - transfer_window2019
@@ -25,7 +26,7 @@ The files that are needed to correctly visualize the project are the following:
 - Commented code --> contains all the commented code we used for the visualziation and the analysis.
 
 - Website:
-  - index.html --> contains the code for the creation of the site 
+  - home.html --> contains the code for the creation of the site 
   - style.css --> contains the styles for the site
 
 
